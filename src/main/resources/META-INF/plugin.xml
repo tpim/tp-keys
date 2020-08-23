@@ -3,7 +3,10 @@
     <name>tp-keys</name>
     <vendor email="tpim0901@gmail.com" url="http://github.com/tpim/tp-keys">tp-keys</vendor>
 
-    <description>a mutiplie mode keybinding intellij plugin.</description>
+    <description><![CDATA[
+    a muti-mode keybinding intellij plugin.<br>
+    Inspiration comes from xah fly keys.
+    ]]></description>
 
     <depends>com.intellij.modules.platform</depends>
 

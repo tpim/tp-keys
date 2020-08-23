@@ -16,7 +16,7 @@ public class TpKeysInsertMode extends AnAction {
             return;
         }
 
-        System.out.println("enter insert mode.");
+
         TpKeysService.getInstance().activateInsertMode(editor);
     }
 }

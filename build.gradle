@@ -3,8 +3,8 @@ plugins {
     id 'org.jetbrains.intellij' version '0.4.21'
 }
 
-group 'org.example'
-version '1.1-SNAPSHOT'
+group 'com.github.tpim'
+version '1.1.1'
 
 repositories {
     mavenCentral()
@@ -20,6 +20,11 @@ intellij {
 }
 patchPluginXml {
     changeNotes """
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>"""
+      There are fllowing features:<br>
+      <li>Command mode and Insert mode</li>
+      <li>Some intellij local action keybindings with prefix SPACE key.</li>"""
+}
+publishPlugin {
+    username intellijPublishUsername
+    password intellijPublishPassword
 }

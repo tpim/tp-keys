@@ -32,7 +32,8 @@ public class TpKeysActionListener implements AnActionListener {
                 action.getClass().equals(ViewStructureAction.class) ||
                 action.getClass().equals(TpEditorDeleteToWord.class) ||
                 action.equals(IdeActions.ACTION_FILE_STRUCTURE_POPUP) ||
-                action.equals(IdeActions.ACTION_FIND_IN_PATH)
+                action.equals(IdeActions.ACTION_FIND_IN_PATH) ||
+                action.getClass().getName().contains("New")
         ) {
             final Editor editor = dataContext.getData(CommonDataKeys.EDITOR);
             service.activateInsertMode(editor);
@@ -41,7 +42,5 @@ public class TpKeysActionListener implements AnActionListener {
 
     @Override
     public void beforeEditorTyping(char c, @NotNull DataContext dataContext) {
-        System.out.println("type char:");
-        System.out.println(c);
     }
 }

@@ -12,8 +12,8 @@ public class TpKeysCommandMode extends AnAction {
 
     @Override
     public void actionPerformed(AnActionEvent e) {
-        // TODO: insert action logic here
-        System.out.println(".........................");
+
+
         Editor editor = e.getData(CommonDataKeys.EDITOR);
         if(editor == null)
         {

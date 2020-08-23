@@ -5,17 +5,25 @@ import com.intellij.openapi.editor.Editor;
 import com.intellij.openapi.keymap.Keymap;
 import com.intellij.openapi.keymap.KeymapManager;
 import com.intellij.openapi.keymap.ex.KeymapManagerEx;
+import com.intellij.openapi.project.Project;
+import com.intellij.openapi.project.ProjectManager;
+import com.intellij.openapi.wm.WindowManager;
 import org.apache.batik.svggen.font.table.GsubTable;
+import org.jetbrains.annotations.NotNull;
 
 public class TpKeysService {
     private static final String DEFAULT_ERGOKEYS_KEYMAP = "TpKeys(QWERTY)";
     private final KeymapManagerEx keymapManagerEx;
+    private final ProjectManager projectManager;
+    private final WindowManager windowManager;
 
     private Keymap commandKeymap;
     private Keymap insertKeymap;
 
     public TpKeysService() {
         keymapManagerEx = KeymapManagerEx.getInstanceEx();
+        projectManager = ProjectManager.getInstance();
+        windowManager = WindowManager.getInstance();
     }
 
     public static TpKeysService getInstance() {
@@ -23,39 +31,46 @@ public class TpKeysService {
     }
 
 
-    public void initKeymap(Keymap keymap)
-    {
-        if(insertKeymap == null && commandKeymap== null)
-        {
-            System.out.println("initKeymap");
+    public void initKeymap(Keymap keymap) {
+        if (insertKeymap == null && commandKeymap == null) {
+
             this.insertKeymap = keymapManagerEx.getKeymap(KeymapManagerEx.MAC_OS_X_10_5_PLUS_KEYMAP);
-            System.out.println(this.insertKeymap);
+
             this.commandKeymap = keymapManagerEx.getKeymap(DEFAULT_ERGOKEYS_KEYMAP);
-            System.out.println(this.commandKeymap);
+
         }
     }
 
 
     public void activateCommandMode(Editor editor) {
+        this.setTextOnStatusBar("Command");
         editor.getSettings().setBlockCursor(true);
         changeKeymap(this.commandKeymap);
     }
 
-    public void activateInsertMode(Editor editor){
+    public void activateInsertMode(Editor editor) {
+        this.setTextOnStatusBar("Insert");
         editor.getSettings().setBlockCursor(false);
         changeKeymap(this.insertKeymap);
-        System.out.println(this.insertKeymap);
     }
 
     public void changeKeymap(Keymap keymap) {
 
         if (insertKeymap == null || commandKeymap == null) {
-            System.out.println("do not init keymap.");
+
             return;
         }
 
         keymapManagerEx.setActiveKeymap(keymap);
 
+
+    }
+
+    public void setTextOnStatusBar(String text) {
+        Project[] projects = projectManager.getOpenProjects();
+        for (var project : projects) {
+            windowManager.getStatusBar(project).setInfo(text);
+        }
 
     }
 }

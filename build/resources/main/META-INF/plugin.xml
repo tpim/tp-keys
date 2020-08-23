@@ -1,13 +1,17 @@
 <idea-plugin>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.1.1</version>
   <change-notes>
-      Add change notes here.&lt;br&gt;
-      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+      There are fllowing features:&lt;br&gt;
+      &lt;li&gt;Command mode and Insert mode&lt;/li&gt;
+      &lt;li&gt;Some intellij local action keybindings with prefix SPACE key.&lt;/li&gt;</change-notes>
   <idea-version since-build="201.8743" until-build="201.*"/>
   <id>tp-keys</id>
   <name>tp-keys</name>
   <vendor email="tpim0901@gmail.com" url="http://github.com/tpim/tp-keys">tp-keys</vendor>
-  <description>a mutiplie mode keybinding intellij plugin.</description>
+  <description>
+    a muti-mode keybinding intellij plugin.&lt;br&gt;
+    Inspiration comes from xah fly keys.
+    </description>
   <depends>com.intellij.modules.platform</depends>
   <applicationListeners>
     <listener class="com.github.tpim.tpkeys.listener.TpKeysKeyMapListener" topic="com.intellij.openapi.keymap.KeymapManagerListener"/>
