@@ -1,0 +1,38 @@
+<idea-plugin>
+  <version>1.1-SNAPSHOT</version>
+  <change-notes>
+      Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <idea-version since-build="201.8743" until-build="201.*"/>
+  <id>tp-keys</id>
+  <name>tp-keys</name>
+  <vendor email="tpim0901@gmail.com" url="http://github.com/tpim/tp-keys">tp-keys</vendor>
+  <description>a mutiplie mode keybinding intellij plugin.</description>
+  <depends>com.intellij.modules.platform</depends>
+  <applicationListeners>
+    <listener class="com.github.tpim.tpkeys.listener.TpKeysKeyMapListener" topic="com.intellij.openapi.keymap.KeymapManagerListener"/>
+    <listener class="com.github.tpim.tpkeys.listener.TpKeysActionListener" topic="com.intellij.openapi.actionSystem.ex.AnActionListener"/>
+  </applicationListeners>
+  <extensions defaultExtensionNs="com.intellij">
+    <applicationService serviceImplementation="com.github.tpim.tpkeys.service.TpKeysService"/>
+  </extensions>
+  <extensions defaultExtensionNs="com.intellij">
+    <bundledKeymap file="$tpkeys.xml"/>
+    <bundledKeymap file="TpKeys(QWERTY).xml"/>
+  </extensions>
+  <actions>
+    <action id="TpKeysCommandMode" class="com.github.tpim.tpkeys.action.TpKeysCommandMode" text="TpKeysCommandMode" description="TpKeysCommandMode">
+      <keyboard-shortcut keymap="$default" first-keystroke="shift SPACE"/>
+    </action>
+    <action id="TpKeysInsertMode" class="com.github.tpim.tpkeys.action.TpKeysInsertMode" text="TpKeysInsertMode" description="TpKeysInsertMode"/>
+    <action id="ErgoKeysSelectString" class="com.github.tpim.tpkeys.action.SelectStringAction" text="Select String" description="Select String"/>
+    <action id="TpEditorDeleteToWord" class="com.github.tpim.tpkeys.action.TpEditorDeleteToWord" text="TpEditorDeleteToWord" description="TpEditorDeleteToWord"/>
+    <action id="ErgoKeysStartOfLineOrParagraphAction" class="com.github.tpim.tpkeys.action.StartOfLineOrParagraphAction" text="Move Caret to Line or Block Start" description="Move Caret to Line or Block Start"/>
+    <action id="ErgoKeysEndOfLineOrParagraphAction" class="com.github.tpim.tpkeys.action.EndOfLineOrParagraphAction" text="EndOfLineOrParagraphAction" description="EndOfLineOrParagraphAction"/>
+    <action id="ErgoKeysDeleteCurrentCodeBlockAction" class="com.github.tpim.tpkeys.action.DeleteCurrentCodeBlockAction" text="ErgoKeysDeleteCurrentCodeBlockAction" description="DeleteCurrentCodeBlockAction"/>
+    <action id="ErgoKeysActivateInsertModeSpaceBefore" class="com.github.tpim.tpkeys.action.ActivateInsertModeSpaceBeforeAction" text="ActivateInsertModeSpaceBefore" description="ActivateInsertModeSpaceBefore"/>
+    <action id="ErgoKeysGotoAction" class="com.github.tpim.tpkeys.action.GotoAction" text="GotoAction" description="GotoAction"/>
+    <action id="TpInsertNextLine" class="com.github.tpim.tpkeys.action.TpInsertNextLine" text="TpInsertNextLine" description="insert to next line when in comand mode."/>
+    <action id="TpKeysPasteNextLineAction" class="com.github.tpim.tpkeys.action.TpKeysPasteNextLineAction" text="TpKeysCopyNextLineAction" description="TpKeysCopyNextLineAction"/>
+  </actions>
+</idea-plugin>

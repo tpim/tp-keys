@@ -1,0 +1,96 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$Undo">
+        <ActionSummary times="2" last="1598186251583" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="37" last="1598169201736" />
+      </entry>
+      <entry key="EditorChooseLookupItem">
+        <ActionSummary times="1" last="1598167248856" />
+      </entry>
+      <entry key="EditorCopy">
+        <ActionSummary times="6" last="1598186405280" />
+      </entry>
+      <entry key="EditorDown">
+        <ActionSummary times="37" last="1598169187489" />
+      </entry>
+      <entry key="EditorEnter">
+        <ActionSummary times="43" last="1598169199384" />
+      </entry>
+      <entry key="EditorEscape">
+        <ActionSummary times="1" last="1598164976171" />
+      </entry>
+      <entry key="EditorLeft">
+        <ActionSummary times="29" last="1598186403422" />
+      </entry>
+      <entry key="EditorNextWord">
+        <ActionSummary times="23" last="1598186240691" />
+      </entry>
+      <entry key="EditorPaste">
+        <ActionSummary times="16" last="1598186411447" />
+      </entry>
+      <entry key="EditorPreviousWord">
+        <ActionSummary times="8" last="1598164503356" />
+      </entry>
+      <entry key="EditorRight">
+        <ActionSummary times="31" last="1598186403601" />
+      </entry>
+      <entry key="EditorSelectLine">
+        <ActionSummary times="3" last="1598167096046" />
+      </entry>
+      <entry key="EditorSelectWord">
+        <ActionSummary times="6" last="1598186404206" />
+      </entry>
+      <entry key="EditorUp">
+        <ActionSummary times="56" last="1598186241621" />
+      </entry>
+      <entry key="ErgoKeysEndOfLineOrParagraphAction">
+        <ActionSummary times="7" last="1598169197386" />
+      </entry>
+      <entry key="ErgoKeysStartOfLineOrParagraphAction">
+        <ActionSummary times="3" last="1598186400433" />
+      </entry>
+      <entry key="GotoClass">
+        <ActionSummary times="1" last="1598164961455" />
+      </entry>
+      <entry key="NewClass">
+        <ActionSummary times="1" last="1598128264005" />
+      </entry>
+      <entry key="NextTemplateVariable">
+        <ActionSummary times="1" last="1598167249169" />
+      </entry>
+      <entry key="SaveAll">
+        <ActionSummary times="1" last="1598128896215" />
+      </entry>
+      <entry key="TpInsertNextLine">
+        <ActionSummary times="7" last="1598186255634" />
+      </entry>
+      <entry key="TpKeysCommandMode">
+        <ActionSummary times="20" last="1598186397384" />
+      </entry>
+      <entry key="TpKeysCopyNextLineAction">
+        <ActionSummary times="2" last="1598186261077" />
+      </entry>
+      <entry key="TpKeysInsertMode">
+        <ActionSummary times="11" last="1598169198660" />
+      </entry>
+      <entry key="TpKeysPasteNextLineAction">
+        <ActionSummary times="7" last="1598186415696" />
+      </entry>
+      <entry key="WelcomeScreen.CreateNewProject">
+        <ActionSummary times="1" last="1598128198370" />
+      </entry>
+      <entry key="com.intellij.ide.ReopenProjectAction">
+        <ActionSummary times="7" last="1598186362820" />
+      </entry>
+      <entry key="com.intellij.openapi.roots.ui.configuration.projectRoot.ModuleStructureConfigurable$AddModuleAction">
+        <ActionSummary times="1" last="1598128248684" />
+      </entry>
+      <entry key="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
+        <ActionSummary times="2" last="1598128247749" />
+      </entry>
+    </data>
+  </component>
+</application>
