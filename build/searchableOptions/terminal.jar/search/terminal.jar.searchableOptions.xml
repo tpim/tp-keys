@@ -2,6 +2,12 @@
 <options>
   <configurable id="preferences.keymap" configurable_name="Keymap">
     <option name="" path="ActionManager" hit="" />
+    <option name="copy" path="ActionManager" hit="Copy" />
+    <option name="clipboard" path="ActionManager" hit="Copy selected text to clipboard" />
+    <option name="copy" path="ActionManager" hit="Copy selected text to clipboard" />
+    <option name="selected" path="ActionManager" hit="Copy selected text to clipboard" />
+    <option name="text" path="ActionManager" hit="Copy selected text to clipboard" />
+    <option name="to" path="ActionManager" hit="Copy selected text to clipboard" />
     <option name="goto" path="ActionManager" hit="Goto Next Splitter" />
     <option name="next" path="ActionManager" hit="Goto Next Splitter" />
     <option name="splitter" path="ActionManager" hit="Goto Next Splitter" />
@@ -26,6 +32,10 @@
     <option name="in" path="ActionManager" hit="Open in Terminal" />
     <option name="open" path="ActionManager" hit="Open in Terminal" />
     <option name="terminal" path="ActionManager" hit="Open in Terminal" />
+    <option name="paste" path="ActionManager" hit="Paste" />
+    <option name="clipboard" path="ActionManager" hit="Paste from clipboard" />
+    <option name="from" path="ActionManager" hit="Paste from clipboard" />
+    <option name="paste" path="ActionManager" hit="Paste from clipboard" />
     <option name="rename" path="ActionManager" hit="Rename Session" />
     <option name="session" path="ActionManager" hit="Rename Session" />
     <option name="horizontally" path="ActionManager" hit="Split Horizontally" />
@@ -72,13 +82,14 @@
     <option name="paste" hit="Paste on middle mouse button click" />
     <option name="project" hit="Project settings" />
     <option name="settings" hit="Project settings" />
+    <option name="commands" hit="Run Commands using IDE" />
+    <option name="ide" hit="Run Commands using IDE" />
+    <option name="run" hit="Run Commands using IDE" />
+    <option name="using" hit="Run Commands using IDE" />
     <option name="integration" hit="Shell integration" />
     <option name="shell" hit="Shell integration" />
     <option name="path" hit="Shell path" />
     <option name="shell" hit="Shell path" />
-    <option name="command" hit="Smart command handling" />
-    <option name="handling" hit="Smart command handling" />
-    <option name="smart" hit="Smart command handling" />
     <option name="directory" hit="Start directory" />
     <option name="start" hit="Start directory" />
     <option name="name" hit="Tab name" />

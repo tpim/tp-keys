@@ -330,27 +330,27 @@
   <configurable id="MavenSettings" configurable_name="Maven">
     <option name="-t" hit="-T option" />
     <option name="option" hit="-T option" />
-    <option name="" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.4/da9095e6ac3581f0463f7ae0ebb155647ca427ad/ideaIC-2020.1.4/plugins/maven/lib/maven3" />
-    <option name="1" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.4/da9095e6ac3581f0463f7ae0ebb155647ca427ad/ideaIC-2020.1.4/plugins/maven/lib/maven3" />
-    <option name="2020" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.4/da9095e6ac3581f0463f7ae0ebb155647ca427ad/ideaIC-2020.1.4/plugins/maven/lib/maven3" />
-    <option name="4" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.4/da9095e6ac3581f0463f7ae0ebb155647ca427ad/ideaIC-2020.1.4/plugins/maven/lib/maven3" />
-    <option name="caches" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.4/da9095e6ac3581f0463f7ae0ebb155647ca427ad/ideaIC-2020.1.4/plugins/maven/lib/maven3" />
-    <option name="com" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.4/da9095e6ac3581f0463f7ae0ebb155647ca427ad/ideaIC-2020.1.4/plugins/maven/lib/maven3" />
-    <option name="da9095e6ac3581f0463f7ae0ebb155647ca427ad" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.4/da9095e6ac3581f0463f7ae0ebb155647ca427ad/ideaIC-2020.1.4/plugins/maven/lib/maven3" />
-    <option name="files-2" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.4/da9095e6ac3581f0463f7ae0ebb155647ca427ad/ideaIC-2020.1.4/plugins/maven/lib/maven3" />
-    <option name="gradle" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.4/da9095e6ac3581f0463f7ae0ebb155647ca427ad/ideaIC-2020.1.4/plugins/maven/lib/maven3" />
-    <option name="idea" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.4/da9095e6ac3581f0463f7ae0ebb155647ca427ad/ideaIC-2020.1.4/plugins/maven/lib/maven3" />
-    <option name="ideaic" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.4/da9095e6ac3581f0463f7ae0ebb155647ca427ad/ideaIC-2020.1.4/plugins/maven/lib/maven3" />
-    <option name="ideaic-2020" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.4/da9095e6ac3581f0463f7ae0ebb155647ca427ad/ideaIC-2020.1.4/plugins/maven/lib/maven3" />
-    <option name="intellij" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.4/da9095e6ac3581f0463f7ae0ebb155647ca427ad/ideaIC-2020.1.4/plugins/maven/lib/maven3" />
-    <option name="jetbrains" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.4/da9095e6ac3581f0463f7ae0ebb155647ca427ad/ideaIC-2020.1.4/plugins/maven/lib/maven3" />
-    <option name="lib" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.4/da9095e6ac3581f0463f7ae0ebb155647ca427ad/ideaIC-2020.1.4/plugins/maven/lib/maven3" />
-    <option name="maven" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.4/da9095e6ac3581f0463f7ae0ebb155647ca427ad/ideaIC-2020.1.4/plugins/maven/lib/maven3" />
-    <option name="maven3" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.4/da9095e6ac3581f0463f7ae0ebb155647ca427ad/ideaIC-2020.1.4/plugins/maven/lib/maven3" />
-    <option name="modules-2" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.4/da9095e6ac3581f0463f7ae0ebb155647ca427ad/ideaIC-2020.1.4/plugins/maven/lib/maven3" />
-    <option name="plugins" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.4/da9095e6ac3581f0463f7ae0ebb155647ca427ad/ideaIC-2020.1.4/plugins/maven/lib/maven3" />
-    <option name="tpim" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.4/da9095e6ac3581f0463f7ae0ebb155647ca427ad/ideaIC-2020.1.4/plugins/maven/lib/maven3" />
-    <option name="users" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.1.4/da9095e6ac3581f0463f7ae0ebb155647ca427ad/ideaIC-2020.1.4/plugins/maven/lib/maven3" />
+    <option name="" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2/4fe93bb81525f2fa7a6f0fd7ba41c3b9cce9e8b6/ideaIC-2020.2/plugins/maven/lib/maven3" />
+    <option name="1" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2/4fe93bb81525f2fa7a6f0fd7ba41c3b9cce9e8b6/ideaIC-2020.2/plugins/maven/lib/maven3" />
+    <option name="2" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2/4fe93bb81525f2fa7a6f0fd7ba41c3b9cce9e8b6/ideaIC-2020.2/plugins/maven/lib/maven3" />
+    <option name="2020" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2/4fe93bb81525f2fa7a6f0fd7ba41c3b9cce9e8b6/ideaIC-2020.2/plugins/maven/lib/maven3" />
+    <option name="4fe93bb81525f2fa7a6f0fd7ba41c3b9cce9e8b6" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2/4fe93bb81525f2fa7a6f0fd7ba41c3b9cce9e8b6/ideaIC-2020.2/plugins/maven/lib/maven3" />
+    <option name="caches" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2/4fe93bb81525f2fa7a6f0fd7ba41c3b9cce9e8b6/ideaIC-2020.2/plugins/maven/lib/maven3" />
+    <option name="com" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2/4fe93bb81525f2fa7a6f0fd7ba41c3b9cce9e8b6/ideaIC-2020.2/plugins/maven/lib/maven3" />
+    <option name="files-2" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2/4fe93bb81525f2fa7a6f0fd7ba41c3b9cce9e8b6/ideaIC-2020.2/plugins/maven/lib/maven3" />
+    <option name="gradle" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2/4fe93bb81525f2fa7a6f0fd7ba41c3b9cce9e8b6/ideaIC-2020.2/plugins/maven/lib/maven3" />
+    <option name="idea" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2/4fe93bb81525f2fa7a6f0fd7ba41c3b9cce9e8b6/ideaIC-2020.2/plugins/maven/lib/maven3" />
+    <option name="ideaic" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2/4fe93bb81525f2fa7a6f0fd7ba41c3b9cce9e8b6/ideaIC-2020.2/plugins/maven/lib/maven3" />
+    <option name="ideaic-2020" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2/4fe93bb81525f2fa7a6f0fd7ba41c3b9cce9e8b6/ideaIC-2020.2/plugins/maven/lib/maven3" />
+    <option name="intellij" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2/4fe93bb81525f2fa7a6f0fd7ba41c3b9cce9e8b6/ideaIC-2020.2/plugins/maven/lib/maven3" />
+    <option name="jetbrains" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2/4fe93bb81525f2fa7a6f0fd7ba41c3b9cce9e8b6/ideaIC-2020.2/plugins/maven/lib/maven3" />
+    <option name="lib" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2/4fe93bb81525f2fa7a6f0fd7ba41c3b9cce9e8b6/ideaIC-2020.2/plugins/maven/lib/maven3" />
+    <option name="maven" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2/4fe93bb81525f2fa7a6f0fd7ba41c3b9cce9e8b6/ideaIC-2020.2/plugins/maven/lib/maven3" />
+    <option name="maven3" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2/4fe93bb81525f2fa7a6f0fd7ba41c3b9cce9e8b6/ideaIC-2020.2/plugins/maven/lib/maven3" />
+    <option name="modules-2" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2/4fe93bb81525f2fa7a6f0fd7ba41c3b9cce9e8b6/ideaIC-2020.2/plugins/maven/lib/maven3" />
+    <option name="plugins" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2/4fe93bb81525f2fa7a6f0fd7ba41c3b9cce9e8b6/ideaIC-2020.2/plugins/maven/lib/maven3" />
+    <option name="tpim" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2/4fe93bb81525f2fa7a6f0fd7ba41c3b9cce9e8b6/ideaIC-2020.2/plugins/maven/lib/maven3" />
+    <option name="users" hit="/Users/tpim/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2020.2/4fe93bb81525f2fa7a6f0fd7ba41c3b9cce9e8b6/ideaIC-2020.2/plugins/maven/lib/maven3" />
     <option name="always" hit="Always update snapshots" />
     <option name="snapshots" hit="Always update snapshots" />
     <option name="update" hit="Always update snapshots" />
@@ -398,11 +398,6 @@
     <option name="traces" hit="Print exception stack traces" />
     <option name="count" hit="Thread count" />
     <option name="thread" hit="Thread count" />
-    <option name="indices" hit="Update Indices on project open" />
-    <option name="on" hit="Update Indices on project open" />
-    <option name="open" hit="Update Indices on project open" />
-    <option name="project" hit="Update Indices on project open" />
-    <option name="update" hit="Update Indices on project open" />
     <option name="plugin" hit="Use plugin registry" />
     <option name="registry" hit="Use plugin registry" />
     <option name="use" hit="Use plugin registry" />
@@ -490,9 +485,9 @@
     <option name="compiler" hit="Detect compiler automatically" />
     <option name="detect" hit="Detect compiler automatically" />
     <option name="documentation" hit="Documentation" />
-    <option name="detect" hit="Don't detect" />
-    <option name="don" hit="Don't detect" />
-    <option name="t" hit="Don't detect" />
+    <option name="detect" hit="Don''t detect" />
+    <option name="don" hit="Don''t detect" />
+    <option name="t" hit="Don''t detect" />
     <option name="build" hit="Exclude build directory (%PROJECT_ROOT%/target)" />
     <option name="directory" hit="Exclude build directory (%PROJECT_ROOT%/target)" />
     <option name="exclude" hit="Exclude build directory (%PROJECT_ROOT%/target)" />

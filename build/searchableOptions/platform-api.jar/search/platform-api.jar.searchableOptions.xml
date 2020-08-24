@@ -87,6 +87,14 @@
     <option name="active" path="ActionManager" hit="Active Tool Window" />
     <option name="tool" path="ActionManager" hit="Active Tool Window" />
     <option name="window" path="ActionManager" hit="Active Tool Window" />
+    <option name="allows" path="ActionManager" hit="Allows to sort problems and filter them out" />
+    <option name="and" path="ActionManager" hit="Allows to sort problems and filter them out" />
+    <option name="filter" path="ActionManager" hit="Allows to sort problems and filter them out" />
+    <option name="out" path="ActionManager" hit="Allows to sort problems and filter them out" />
+    <option name="problems" path="ActionManager" hit="Allows to sort problems and filter them out" />
+    <option name="sort" path="ActionManager" hit="Allows to sort problems and filter them out" />
+    <option name="them" path="ActionManager" hit="Allows to sort problems and filter them out" />
+    <option name="to" path="ActionManager" hit="Allows to sort problems and filter them out" />
     <option name="actions" path="ActionManager" hit="Analysis Actions" />
     <option name="analysis" path="ActionManager" hit="Analysis Actions" />
     <option name="analyze" path="ActionManager" hit="Analyze" />
@@ -146,6 +154,12 @@
     <option name="browse" path="ActionManager" hit="Browse console history" />
     <option name="console" path="ActionManager" hit="Browse console history" />
     <option name="history" path="ActionManager" hit="Browse console history" />
+    <option name="build" path="ActionManager" hit="Build Tool Settings" />
+    <option name="settings" path="ActionManager" hit="Build Tool Settings" />
+    <option name="tool" path="ActionManager" hit="Build Tool Settings" />
+    <option name="build" path="ActionManager" hit="Build Tools Settings" />
+    <option name="settings" path="ActionManager" hit="Build Tools Settings" />
+    <option name="tools" path="ActionManager" hit="Build Tools Settings" />
     <option name="cached" path="ActionManager" hit="Cached Value Profiler" />
     <option name="profiler" path="ActionManager" hit="Cached Value Profiler" />
     <option name="value" path="ActionManager" hit="Cached Value Profiler" />
@@ -211,6 +225,14 @@
     <option name="help" path="ActionManager" hit="Context Help" />
     <option name="convert" path="ActionManager" hit="Convert Indents" />
     <option name="indents" path="ActionManager" hit="Convert Indents" />
+    <option name="copy" path="ActionManager" hit="Copy / Paste Special" />
+    <option name="paste" path="ActionManager" hit="Copy / Paste Special" />
+    <option name="special" path="ActionManager" hit="Copy / Paste Special" />
+    <option name="actions" path="ActionManager" hit="Copy / Paste Special Editor Actions" />
+    <option name="copy" path="ActionManager" hit="Copy / Paste Special Editor Actions" />
+    <option name="editor" path="ActionManager" hit="Copy / Paste Special Editor Actions" />
+    <option name="paste" path="ActionManager" hit="Copy / Paste Special Editor Actions" />
+    <option name="special" path="ActionManager" hit="Copy / Paste Special Editor Actions" />
     <option name="actions" path="ActionManager" hit="Cut/Copy/Paste Actions" />
     <option name="copy" path="ActionManager" hit="Cut/Copy/Paste Actions" />
     <option name="cut" path="ActionManager" hit="Cut/Copy/Paste Actions" />
@@ -261,8 +283,10 @@
     <option name="devkit" path="ActionManager" hit="DevKit" />
     <option name="diagnostic" path="ActionManager" hit="Diagnostic Tools" />
     <option name="tools" path="ActionManager" hit="Diagnostic Tools" />
-    <option name="diff" path="ActionManager" hit="Diff  Merge" />
-    <option name="merge" path="ActionManager" hit="Diff  Merge" />
+    <option name="diff" path="ActionManager" hit="Diff &amp; Merge" />
+    <option name="merge" path="ActionManager" hit="Diff &amp; Merge" />
+    <option name="directory" path="ActionManager" hit="Directory Structure" />
+    <option name="structure" path="ActionManager" hit="Directory Structure" />
     <option name="dump" path="ActionManager" hit="Dump" />
     <option name="edit" path="ActionManager" hit="Edit" />
     <option name="actions" path="ActionManager" hit="Edit Code Actions" />
@@ -382,9 +406,13 @@
     <option name="open" path="ActionManager" hit="File Open Actions" />
     <option name="file" path="ActionManager" hit="File Properties" />
     <option name="properties" path="ActionManager" hit="File Properties" />
+    <option name="file" path="ActionManager" hit="File Structure" />
+    <option name="structure" path="ActionManager" hit="File Structure" />
     <option name="find" path="ActionManager" hit="Find" />
     <option name="find" path="ActionManager" hit="Find Usages" />
     <option name="usages" path="ActionManager" hit="Find Usages" />
+    <option name="flatten" path="ActionManager" hit="Flatten Modules" />
+    <option name="modules" path="ActionManager" hit="Flatten Modules" />
     <option name="focus" path="ActionManager" hit="Focus On Startup" />
     <option name="on" path="ActionManager" hit="Focus On Startup" />
     <option name="startup" path="ActionManager" hit="Focus On Startup" />
@@ -429,6 +457,9 @@
     <option name="by" path="ActionManager" hit="Goto by Reference Actions" />
     <option name="goto" path="ActionManager" hit="Goto by Reference Actions" />
     <option name="reference" path="ActionManager" hit="Goto by Reference Actions" />
+    <option name="by" path="ActionManager" hit="Group by directory" />
+    <option name="directory" path="ActionManager" hit="Group by directory" />
+    <option name="group" path="ActionManager" hit="Group by directory" />
     <option name="analysis" path="ActionManager" hit="Heap Analysis" />
     <option name="heap" path="ActionManager" hit="Heap Analysis" />
     <option name="help" path="ActionManager" hit="Help" />
@@ -515,6 +546,7 @@
     <option name="and" path="ActionManager" hit="Middle and Right" />
     <option name="middle" path="ActionManager" hit="Middle and Right" />
     <option name="right" path="ActionManager" hit="Middle and Right" />
+    <option name="module" path="ActionManager" hit="Module" />
     <option name="difference" path="ActionManager" hit="Move to the next difference" />
     <option name="move" path="ActionManager" hit="Move to the next difference" />
     <option name="next" path="ActionManager" hit="Move to the next difference" />
@@ -854,8 +886,10 @@
     <option name="tasks" path="ActionManager" hit="Tasks" />
     <option name="contexts" path="ActionManager" hit="Tasks &amp; Contexts" />
     <option name="tasks" path="ActionManager" hit="Tasks &amp; Contexts" />
-    <option name="tasks" path="ActionManager" hit="Tasks toolbar" />
-    <option name="toolbar" path="ActionManager" hit="Tasks toolbar" />
+    <option name="tasks" path="ActionManager" hit="Tasks Toolbar" />
+    <option name="toolbar" path="ActionManager" hit="Tasks Toolbar" />
+    <option name="production" path="ActionManager" hit="Test/Production" />
+    <option name="test" path="ActionManager" hit="Test/Production" />
     <option name="breakpoint" path="ActionManager" hit="Toggle Breakpoint" />
     <option name="toggle" path="ActionManager" hit="Toggle Breakpoint" />
     <option name="bar" path="ActionManager" hit="Toggle the breadcrumbs bar settings" />
@@ -897,6 +931,8 @@
     <option name="designer" path="ActionManager" hit="UI Designer Toolbar Actions" />
     <option name="toolbar" path="ActionManager" hit="UI Designer Toolbar Actions" />
     <option name="ui" path="ActionManager" hit="UI Designer Toolbar Actions" />
+    <option name="type" path="ActionManager" hit="Usage Type" />
+    <option name="usage" path="ActionManager" hit="Usage Type" />
     <option name="vcs" path="ActionManager" hit="VCS" />
     <option name="actions" path="ActionManager" hit="VCS Actions" />
     <option name="vcs" path="ActionManager" hit="VCS Actions" />
@@ -908,6 +944,8 @@
     <option name="systems" path="ActionManager" hit="Version Control Systems" />
     <option name="version" path="ActionManager" hit="Version Control Systems" />
     <option name="view" path="ActionManager" hit="View" />
+    <option name="options" path="ActionManager" hit="View Options" />
+    <option name="view" path="ActionManager" hit="View Options" />
     <option name="actions" path="ActionManager" hit="View Recent Actions Group" />
     <option name="group" path="ActionManager" hit="View Recent Actions Group" />
     <option name="recent" path="ActionManager" hit="View Recent Actions Group" />

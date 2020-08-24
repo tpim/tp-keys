@@ -151,10 +151,10 @@
     <option name="file" path="ActionManager" hit="Run Scratch File" />
     <option name="run" path="ActionManager" hit="Run Scratch File" />
     <option name="scratch" path="ActionManager" hit="Run Scratch File" />
-    <option name="file" path="ActionManager" hit="Run Scratch File (⌥⌘W)" />
-    <option name="run" path="ActionManager" hit="Run Scratch File (⌥⌘W)" />
-    <option name="scratch" path="ActionManager" hit="Run Scratch File (⌥⌘W)" />
-    <option name="w" path="ActionManager" hit="Run Scratch File (⌥⌘W)" />
+    <option name="file" path="ActionManager" hit="Run Scratch File (⌃⌥W)" />
+    <option name="run" path="ActionManager" hit="Run Scratch File (⌃⌥W)" />
+    <option name="scratch" path="ActionManager" hit="Run Scratch File (⌃⌥W)" />
+    <option name="w" path="ActionManager" hit="Run Scratch File (⌃⌥W)" />
     <option name="candidates" path="ActionManager" hit="Search Not Property Candidates" />
     <option name="not" path="ActionManager" hit="Search Not Property Candidates" />
     <option name="property" path="ActionManager" hit="Search Not Property Candidates" />
@@ -223,14 +223,11 @@
     <option name="the" hit="Add unambiguous imports on the fly" />
     <option name="unambiguous" hit="Add unambiguous imports on the fly" />
     <option name="kotlin" hit="Kotlin" />
-    <option name="current" hit="Optimize imports on the fly (for current project)" />
-    <option name="fly" hit="Optimize imports on the fly (for current project)" />
-    <option name="for" hit="Optimize imports on the fly (for current project)" />
-    <option name="imports" hit="Optimize imports on the fly (for current project)" />
-    <option name="on" hit="Optimize imports on the fly (for current project)" />
-    <option name="optimize" hit="Optimize imports on the fly (for current project)" />
-    <option name="project" hit="Optimize imports on the fly (for current project)" />
-    <option name="the" hit="Optimize imports on the fly (for current project)" />
+    <option name="fly" hit="Optimize imports on the fly" />
+    <option name="imports" hit="Optimize imports on the fly" />
+    <option name="on" hit="Optimize imports on the fly" />
+    <option name="optimize" hit="Optimize imports on the fly" />
+    <option name="the" hit="Optimize imports on the fly" />
   </configurable>
   <configurable id="editor.breadcrumbs" configurable_name="Breadcrumbs">
     <option name="kotlin" hit="Kotlin" />

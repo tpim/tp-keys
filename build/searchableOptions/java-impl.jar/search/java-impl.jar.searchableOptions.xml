@@ -172,9 +172,6 @@
     <option name="types" path="ActionManager" hit="Convert your code to use generic types" />
     <option name="use" path="ActionManager" hit="Convert your code to use generic types" />
     <option name="your" path="ActionManager" hit="Convert your code to use generic types" />
-    <option name="create" path="ActionManager" hit="Create New Project" />
-    <option name="new" path="ActionManager" hit="Create New Project" />
-    <option name="project" path="ActionManager" hit="Create New Project" />
     <option name="a" path="ActionManager" hit="Create a new project from scratch" />
     <option name="create" path="ActionManager" hit="Create a new project from scratch" />
     <option name="from" path="ActionManager" hit="Create a new project from scratch" />
@@ -482,6 +479,8 @@
     <option name="watch" path="ActionManager" hit="New Class Level Watch..." />
     <option name="module" path="ActionManager" hit="New Module..." />
     <option name="new" path="ActionManager" hit="New Module..." />
+    <option name="new" path="ActionManager" hit="New Project" />
+    <option name="project" path="ActionManager" hit="New Project" />
     <option name="method" path="ActionManager" hit="Next Method Overload" />
     <option name="next" path="ActionManager" hit="Next Method Overload" />
     <option name="overload" path="ActionManager" hit="Next Method Overload" />
@@ -511,6 +510,7 @@
     <option name="hierarchy" path="ActionManager" hit="Override Method (from Method Hierarchy)" />
     <option name="method" path="ActionManager" hit="Override Method (from Method Hierarchy)" />
     <option name="override" path="ActionManager" hit="Override Method (from Method Hierarchy)" />
+    <option name="package" path="ActionManager" hit="Package" />
     <option name="file" path="ActionManager" hit="Package File" />
     <option name="package" path="ActionManager" hit="Package File" />
     <option name="method" path="ActionManager" hit="Parameters Method" />
@@ -681,11 +681,11 @@
     <option name="will" path="ActionManager" hit="Start the &quot;New Project&quot; Wizard that will guide you through the steps necessary for creating a new project." />
     <option name="wizard" path="ActionManager" hit="Start the &quot;New Project&quot; Wizard that will guide you through the steps necessary for creating a new project." />
     <option name="you" path="ActionManager" hit="Start the &quot;New Project&quot; Wizard that will guide you through the steps necessary for creating a new project." />
-    <option name="block" path="ActionManager" hit="Step Out Of Code Block" />
-    <option name="code" path="ActionManager" hit="Step Out Of Code Block" />
-    <option name="of" path="ActionManager" hit="Step Out Of Code Block" />
-    <option name="out" path="ActionManager" hit="Step Out Of Code Block" />
-    <option name="step" path="ActionManager" hit="Step Out Of Code Block" />
+    <option name="block" path="ActionManager" hit="Step Out of Code Block" />
+    <option name="code" path="ActionManager" hit="Step Out of Code Block" />
+    <option name="of" path="ActionManager" hit="Step Out of Code Block" />
+    <option name="out" path="ActionManager" hit="Step Out of Code Block" />
+    <option name="step" path="ActionManager" hit="Step Out of Code Block" />
     <option name="for" path="ActionManager" hit="Structure for New Projects..." />
     <option name="new" path="ActionManager" hit="Structure for New Projects..." />
     <option name="projects" path="ActionManager" hit="Structure for New Projects..." />
@@ -812,42 +812,77 @@
     <option name="tostring" path="ActionManager" hit="toString()" />
   </configurable>
   <configurable id="editor.preferences.import" configurable_name="Auto Import">
+    <option name="" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      For current project   " />
+    <option name="589df6" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      For current project   " />
+    <option name="800080" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      For current project   " />
+    <option name="a" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      For current project   " />
+    <option name="active" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      For current project   " />
+    <option name="color" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      For current project   " />
+    <option name="current" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      For current project   " />
+    <option name="f00000" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      For current project   " />
+    <option name="for" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      For current project   " />
+    <option name="hover" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      For current project   " />
+    <option name="link" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      For current project   " />
+    <option name="project" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      For current project   " />
+    <option name="visited" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      For current project   " />
+    <option name="" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Use the * wildcard to exclude all members of a specified class or package   " />
+    <option name="589df6" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Use the * wildcard to exclude all members of a specified class or package   " />
+    <option name="800080" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Use the * wildcard to exclude all members of a specified class or package   " />
+    <option name="a" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Use the * wildcard to exclude all members of a specified class or package   " />
+    <option name="active" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Use the * wildcard to exclude all members of a specified class or package   " />
+    <option name="all" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Use the * wildcard to exclude all members of a specified class or package   " />
+    <option name="class" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Use the * wildcard to exclude all members of a specified class or package   " />
+    <option name="color" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Use the * wildcard to exclude all members of a specified class or package   " />
+    <option name="exclude" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Use the * wildcard to exclude all members of a specified class or package   " />
+    <option name="f00000" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Use the * wildcard to exclude all members of a specified class or package   " />
+    <option name="hover" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Use the * wildcard to exclude all members of a specified class or package   " />
+    <option name="link" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Use the * wildcard to exclude all members of a specified class or package   " />
+    <option name="members" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Use the * wildcard to exclude all members of a specified class or package   " />
+    <option name="of" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Use the * wildcard to exclude all members of a specified class or package   " />
+    <option name="or" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Use the * wildcard to exclude all members of a specified class or package   " />
+    <option name="package" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Use the * wildcard to exclude all members of a specified class or package   " />
+    <option name="specified" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Use the * wildcard to exclude all members of a specified class or package   " />
+    <option name="the" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Use the * wildcard to exclude all members of a specified class or package   " />
+    <option name="to" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Use the * wildcard to exclude all members of a specified class or package   " />
+    <option name="use" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Use the * wildcard to exclude all members of a specified class or package   " />
+    <option name="visited" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Use the * wildcard to exclude all members of a specified class or package   " />
+    <option name="wildcard" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Use the * wildcard to exclude all members of a specified class or package   " />
+    <option name="" hit=" Classes" />
+    <option name="classes" hit=" Classes" />
+    <option name="" hit=" Insert imports on paste:" />
+    <option name="imports" hit=" Insert imports on paste:" />
+    <option name="insert" hit=" Insert imports on paste:" />
+    <option name="on" hit=" Insert imports on paste:" />
+    <option name="paste" hit=" Insert imports on paste:" />
+    <option name="" hit=" Static methods and fields" />
+    <option name="and" hit=" Static methods and fields" />
+    <option name="fields" hit=" Static methods and fields" />
+    <option name="methods" hit=" Static methods and fields" />
+    <option name="static" hit=" Static methods and fields" />
     <option name="add" hit="Add unambiguous imports on the fly" />
     <option name="fly" hit="Add unambiguous imports on the fly" />
     <option name="imports" hit="Add unambiguous imports on the fly" />
     <option name="on" hit="Add unambiguous imports on the fly" />
     <option name="the" hit="Add unambiguous imports on the fly" />
     <option name="unambiguous" hit="Add unambiguous imports on the fly" />
-    <option name="all" hit="All" />
+    <option name="always" hit="Always" />
     <option name="ask" hit="Ask" />
-    <option name="and" hit="Exclude from import and completion:" />
-    <option name="completion" hit="Exclude from import and completion:" />
-    <option name="exclude" hit="Exclude from import and completion:" />
-    <option name="from" hit="Exclude from import and completion:" />
-    <option name="import" hit="Exclude from import and completion:" />
-    <option name="imports" hit="Insert imports on paste:" />
-    <option name="insert" hit="Insert imports on paste:" />
-    <option name="on" hit="Insert imports on paste:" />
-    <option name="paste" hit="Insert imports on paste:" />
+    <option name="and" hit="Exclude from auto-import and completion:" />
+    <option name="auto-import" hit="Exclude from auto-import and completion:" />
+    <option name="completion" hit="Exclude from auto-import and completion:" />
+    <option name="exclude" hit="Exclude from auto-import and completion:" />
+    <option name="from" hit="Exclude from auto-import and completion:" />
     <option name="java" hit="Java" />
-    <option name="none" hit="None" />
-    <option name="current" hit="Optimize imports on the fly (for current project)" />
-    <option name="fly" hit="Optimize imports on the fly (for current project)" />
-    <option name="for" hit="Optimize imports on the fly (for current project)" />
-    <option name="imports" hit="Optimize imports on the fly (for current project)" />
-    <option name="on" hit="Optimize imports on the fly (for current project)" />
-    <option name="optimize" hit="Optimize imports on the fly (for current project)" />
-    <option name="project" hit="Optimize imports on the fly (for current project)" />
-    <option name="the" hit="Optimize imports on the fly (for current project)" />
+    <option name="never" hit="Never" />
+    <option name="fly" hit="Optimize imports on the fly" />
+    <option name="imports" hit="Optimize imports on the fly" />
+    <option name="on" hit="Optimize imports on the fly" />
+    <option name="optimize" hit="Optimize imports on the fly" />
+    <option name="the" hit="Optimize imports on the fly" />
     <option name="for" hit="Show import popup for:" />
     <option name="import" hit="Show import popup for:" />
     <option name="popup" hit="Show import popup for:" />
     <option name="show" hit="Show import popup for:" />
-    <option name="classes" hit="classes" />
-    <option name="and" hit="static methods and fields" />
-    <option name="fields" hit="static methods and fields" />
-    <option name="methods" hit="static methods and fields" />
-    <option name="static" hit="static methods and fields" />
   </configurable>
   <configurable id="editor.breadcrumbs" configurable_name="Breadcrumbs">
     <option name="java" hit="Java" />
@@ -2113,6 +2148,7 @@
     <option name="12" hit="12" />
     <option name="13" hit="13" />
     <option name="14" hit="14" />
+    <option name="15" hit="15" />
     <option name="5" hit="5" />
     <option name="6" hit="6" />
     <option name="7" hit="7" />

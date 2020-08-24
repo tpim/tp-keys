@@ -99,3 +99,5 @@ org.jetbrains.kotlin.idea.stubindex.KotlinMultifileClassPartIndex
 org.jetbrains.kotlin.idea.stubindex.KotlinScriptFqnIndex
 org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasByExpansionShortNameIndex
 org.jetbrains.kotlin.idea.stubindex.KotlinOverridableInternalMembersShortNameIndex
+com.android.tools.idea.model.AndroidManifestIndex$Companion$NAME$1.NAME
+MlModelFileIndex

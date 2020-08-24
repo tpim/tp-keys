@@ -13,26 +13,32 @@ import org.jetbrains.annotations.NotNull;
 
 public class TpKeysService {
     private static final String DEFAULT_ERGOKEYS_KEYMAP = "TpKeys(QWERTY)";
-    private final KeymapManagerEx keymapManagerEx;
+    private final KeymapManagerEx keymapManagerEx = (KeymapManagerEx) KeymapManager.getInstance();
+    private final Keymap currentKeymap = keymapManagerEx.getActiveKeymap();
     private final ProjectManager projectManager;
     private final WindowManager windowManager;
+
 
     private Keymap commandKeymap;
     private Keymap insertKeymap;
 
     public TpKeysService() {
-        keymapManagerEx = KeymapManagerEx.getInstanceEx();
+
         projectManager = ProjectManager.getInstance();
         windowManager = WindowManager.getInstance();
     }
 
     public static TpKeysService getInstance() {
         return ServiceManager.getService(TpKeysService.class);
+
     }
 
 
-    public void initKeymap(Keymap keymap) {
+    public void initKeymap() {
+
+
         if (insertKeymap == null && commandKeymap == null) {
+
 
             this.insertKeymap = keymapManagerEx.getKeymap(KeymapManagerEx.MAC_OS_X_10_5_PLUS_KEYMAP);
 
@@ -41,8 +47,8 @@ public class TpKeysService {
         }
     }
 
-
     public void activateCommandMode(Editor editor) {
+        this.initKeymap();
         this.setTextOnStatusBar("Command");
         editor.getSettings().setBlockCursor(true);
         changeKeymap(this.commandKeymap);

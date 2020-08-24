@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'com.github.tpim'
-version '1.1.1'
+version '1.2.3'
 
 repositories {
     mavenCentral()
@@ -16,13 +16,11 @@ dependencies {
 
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
-    version '2020.1.4'
+    version '2020.2'
 }
 patchPluginXml {
     changeNotes """
-      There are fllowing features:<br>
-      <li>Command mode and Insert mode</li>
-      <li>Some intellij local action keybindings with prefix SPACE key.</li>"""
+      <li>fix cyclic initialize KeymapmanagerEx</li>"""
 }
 publishPlugin {
     username intellijPublishUsername

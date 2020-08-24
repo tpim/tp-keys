@@ -1,12 +1,13 @@
-24/08 03:28:45 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Process started with '--ide-token /Users/tpim/Code/intellij-plugin/tpkeys/build/idea-sandbox/system/token --recorder FUS --files /Users/tpim/Code/intellij-plugin/tpkeys/build/idea-sandbox/system/event-log/b65b-41ef-9940-c36ede0f2ef9-201.8743.12-release.log --device 16012029045ea38-9f55-4f3a-9235-437da32b1c1b --bucket 144 --url https://resources.jetbrains.com/storage/fus/config/%s/lion-v3-assistant.xml --product IC --user-agent IntelliJ IDEA/201.8743.12'
-24/08 03:28:45 INFO  com.intellij.internal.statistic.uploader.events.ExternalEventsLogger - 1598210925169 STARTED
-24/08 03:28:45 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - IDE token file: /Users/tpim/Code/intellij-plugin/tpkeys/build/idea-sandbox/system/token
-24/08 03:28:45 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Waiting for 2000ms for IDE to close. Attempt #0
-24/08 03:28:47 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Start uploading...
-24/08 03:28:47 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - {url:https://resources.jetbrains.com/storage/fus/config/%s/lion-v3-assistant.xml, product:IC, userAgent:IntelliJ IDEA/201.8743.12(External), internal:false, isTest:false}
-24/08 03:28:47 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - {recorder:FUS, files:/Users/tpim/Code/intellij-plugin/tpkeys/build/idea-sandbox/system/event-log/b65b-41ef-9940-c36ede0f2ef9-201.8743.12-release.log}
-24/08 03:28:47 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - {device:16012029045ea38-9f55-4f3a-9235-437da32b1c1b, bucket:144}
-24/08 03:28:47 TRACE com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Removed sent log: b65b-41ef-9940-c36ede0f2ef9-201.8743.12-release.log
-24/08 03:28:47 INFO  com.intellij.internal.statistic.uploader.events.ExternalEventsLogger - 1598210927762 FINISHED NOT_PERMITTED_SERVER
-24/08 03:28:47 TRACE com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Uploading finished with NOT_PERMITTED_SERVER
-24/08 03:28:47 TRACE com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - NOT_PERMITTED
+24/08 14:46:25 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Process started with '--ide-token /Users/tpim/Code/intellij-plugin/tpkeys/build/idea-sandbox/system/token --recorder FUS --files /Users/tpim/Code/intellij-plugin/tpkeys/build/idea-sandbox/system/event-log-data/logs/FUS/59b9-4e01-8c1c-49e1174e90b7-202.6397.94-release.log --device 16012029045ea38-9f55-4f3a-9235-437da32b1c1b --bucket 144 --url https://resources.jetbrains.com/storage/fus/config/v3/%s/%s.json --product IC --product-version 2020.2 --user-agent IntelliJ IDEA/202.6397.94'
+24/08 14:46:25 INFO  com.intellij.internal.statistic.uploader.events.ExternalEventsLogger - 1598251585100 STARTED
+24/08 14:46:25 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - IDE token file: /Users/tpim/Code/intellij-plugin/tpkeys/build/idea-sandbox/system/token
+24/08 14:46:25 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Start uploading...
+24/08 14:46:25 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - {url:https://resources.jetbrains.com/storage/fus/config/v3/%s/%s.json, product:IC, userAgent:IntelliJ IDEA/202.6397.94(External), internal:false, isTest:false}
+24/08 14:46:25 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - {recorder:FUS, files:/Users/tpim/Code/intellij-plugin/tpkeys/build/idea-sandbox/system/event-log-data/logs/FUS/59b9-4e01-8c1c-49e1174e90b7-202.6397.94-release.log}
+24/08 14:46:25 INFO  com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - {device:16012029045ea38-9f55-4f3a-9235-437da32b1c1b, bucket:144}
+24/08 14:46:26 TRACE com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - 59b9-4e01-8c1c-49e1174e90b7-202.6397.94-release.log-> Cannot upload event log, record list is empty
+24/08 14:46:26 TRACE com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Removed sent log: 59b9-4e01-8c1c-49e1174e90b7-202.6397.94-release.log
+24/08 14:46:26 INFO  com.intellij.internal.statistic.uploader.events.ExternalEventsLogger - 1598251586125 SEND 0 1 1 []
+24/08 14:46:26 INFO  com.intellij.internal.statistic.uploader.events.ExternalEventsLogger - 1598251586126 FINISHED SENT_WITH_ERRORS
+24/08 14:46:26 TRACE com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Uploading finished with SENT_WITH_ERRORS
+24/08 14:46:26 TRACE com.intellij.internal.statistic.uploader.ExternalDataCollectorLogger - Uploaded 0 out of 1 files.

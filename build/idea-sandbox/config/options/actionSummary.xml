@@ -5,7 +5,7 @@
         <ActionSummary times="2" last="1598186251583" />
       </entry>
       <entry key="EditorBackSpace">
-        <ActionSummary times="38" last="1598209250244" />
+        <ActionSummary times="39" last="1598210967088" />
       </entry>
       <entry key="EditorChooseLookupItem">
         <ActionSummary times="3" last="1598209260549" />
@@ -14,7 +14,7 @@
         <ActionSummary times="6" last="1598186405280" />
       </entry>
       <entry key="EditorDown">
-        <ActionSummary times="42" last="1598209172956" />
+        <ActionSummary times="52" last="1598251580846" />
       </entry>
       <entry key="EditorEnter">
         <ActionSummary times="54" last="1598209258657" />
@@ -23,7 +23,7 @@
         <ActionSummary times="1" last="1598164976171" />
       </entry>
       <entry key="EditorLeft">
-        <ActionSummary times="29" last="1598186403422" />
+        <ActionSummary times="34" last="1598251578560" />
       </entry>
       <entry key="EditorNextWord">
         <ActionSummary times="23" last="1598186240691" />
@@ -35,7 +35,7 @@
         <ActionSummary times="8" last="1598164503356" />
       </entry>
       <entry key="EditorRight">
-        <ActionSummary times="32" last="1598209171306" />
+        <ActionSummary times="41" last="1598251578970" />
       </entry>
       <entry key="EditorSelectLine">
         <ActionSummary times="3" last="1598167096046" />
@@ -44,13 +44,16 @@
         <ActionSummary times="6" last="1598186404206" />
       </entry>
       <entry key="EditorUp">
-        <ActionSummary times="64" last="1598209172177" />
+        <ActionSummary times="81" last="1598251580117" />
       </entry>
       <entry key="ErgoKeysEndOfLineOrParagraphAction">
         <ActionSummary times="7" last="1598169197386" />
       </entry>
       <entry key="ErgoKeysStartOfLineOrParagraphAction">
         <ActionSummary times="3" last="1598186400433" />
+      </entry>
+      <entry key="FileStructurePopup">
+        <ActionSummary times="1" last="1598251244163" />
       </entry>
       <entry key="GotoClass">
         <ActionSummary times="1" last="1598164961455" />
@@ -68,13 +71,13 @@
         <ActionSummary times="7" last="1598186255634" />
       </entry>
       <entry key="TpKeysCommandMode">
-        <ActionSummary times="28" last="1598210593268" />
+        <ActionSummary times="32" last="1598238518364" />
       </entry>
       <entry key="TpKeysCopyNextLineAction">
         <ActionSummary times="2" last="1598186261077" />
       </entry>
       <entry key="TpKeysInsertMode">
-        <ActionSummary times="16" last="1598209281409" />
+        <ActionSummary times="19" last="1598210958026" />
       </entry>
       <entry key="TpKeysPasteNextLineAction">
         <ActionSummary times="7" last="1598186415696" />
@@ -83,7 +86,10 @@
         <ActionSummary times="1" last="1598128198370" />
       </entry>
       <entry key="com.intellij.ide.ReopenProjectAction">
-        <ActionSummary times="9" last="1598210579317" />
+        <ActionSummary times="14" last="1598251559535" />
+      </entry>
+      <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+        <ActionSummary times="2" last="1598251570484" />
       </entry>
       <entry key="com.intellij.openapi.roots.ui.configuration.projectRoot.ModuleStructureConfigurable$AddModuleAction">
         <ActionSummary times="1" last="1598128248684" />

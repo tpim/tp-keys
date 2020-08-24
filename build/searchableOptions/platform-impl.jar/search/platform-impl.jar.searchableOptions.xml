@@ -41,63 +41,39 @@
     <option name="for" hit="Adjust colors for red-green vision deficiency" />
     <option name="red-green" hit="Adjust colors for red-green vision deficiency" />
     <option name="vision" hit="Adjust colors for red-green vision deficiency" />
-    <option name="allow" hit="Allow merging buttons on dialogs" />
-    <option name="buttons" hit="Allow merging buttons on dialogs" />
-    <option name="dialogs" hit="Allow merging buttons on dialogs" />
-    <option name="merging" hit="Allow merging buttons on dialogs" />
-    <option name="on" hit="Allow merging buttons on dialogs" />
-    <option name="always" hit="Always show full paths in window header" />
-    <option name="full" hit="Always show full paths in window header" />
-    <option name="header" hit="Always show full paths in window header" />
-    <option name="in" hit="Always show full paths in window header" />
-    <option name="paths" hit="Always show full paths in window header" />
-    <option name="show" hit="Always show full paths in window header" />
-    <option name="window" hit="Always show full paths in window header" />
-    <option name="animate" hit="Animate windows" />
-    <option name="windows" hit="Animate windows" />
+    <option name="always" hit="Always show full path in window header" />
+    <option name="full" hit="Always show full path in window header" />
+    <option name="header" hit="Always show full path in window header" />
+    <option name="in" hit="Always show full path in window header" />
+    <option name="path" hit="Always show full path in window header" />
+    <option name="show" hit="Always show full path in window header" />
+    <option name="window" hit="Always show full path in window header" />
     <option name="antialiasing" hit="Antialiasing" />
     <option name="appearance" hit="Appearance" />
-    <option name="automatically" hit="Automatically position mouse cursor on default button" />
-    <option name="button" hit="Automatically position mouse cursor on default button" />
-    <option name="cursor" hit="Automatically position mouse cursor on default button" />
-    <option name="default" hit="Automatically position mouse cursor on default button" />
-    <option name="mouse" hit="Automatically position mouse cursor on default button" />
-    <option name="on" hit="Automatically position mouse cursor on default button" />
-    <option name="position" hit="Automatically position mouse cursor on default button" />
     <option name="background" hit="Background Image..." />
     <option name="image" hit="Background Image..." />
-    <option name="cyclic" hit="Cyclic scrolling in list" />
-    <option name="in" hit="Cyclic scrolling in list" />
-    <option name="list" hit="Cyclic scrolling in list" />
-    <option name="scrolling" hit="Cyclic scrolling in list" />
-    <option name="disable" hit="Disable mnemonics in  menu" />
-    <option name="in" hit="Disable mnemonics in  menu" />
-    <option name="menu" hit="Disable mnemonics in  menu" />
-    <option name="mnemonics" hit="Disable mnemonics in  menu" />
-    <option name="controls" hit="Disable mnemonics in controls" />
-    <option name="disable" hit="Disable mnemonics in controls" />
-    <option name="in" hit="Disable mnemonics in controls" />
-    <option name="mnemonics" hit="Disable mnemonics in controls" />
     <option name="display" hit="Display icons in menu items" />
     <option name="icons" hit="Display icons in menu items" />
     <option name="in" hit="Display icons in menu items" />
     <option name="items" hit="Display icons in menu items" />
     <option name="menu" hit="Display icons in menu items" />
-    <option name="alt" hit="Drag-n-Drop with ALT pressed only" />
-    <option name="drag-n-drop" hit="Drag-n-Drop with ALT pressed only" />
-    <option name="only" hit="Drag-n-Drop with ALT pressed only" />
-    <option name="pressed" hit="Drag-n-Drop with ALT pressed only" />
-    <option name="with" hit="Drag-n-Drop with ALT pressed only" />
+    <option name="alt" hit="Drag-and-drop with Alt pressed only" />
+    <option name="drag-and-drop" hit="Drag-and-drop with Alt pressed only" />
+    <option name="only" hit="Drag-and-drop with Alt pressed only" />
+    <option name="pressed" hit="Drag-and-drop with Alt pressed only" />
+    <option name="with" hit="Drag-and-drop with Alt pressed only" />
     <option name="editor" hit="Editor:" />
+    <option name="enable" hit="Enable mnemonics in  menu" />
+    <option name="in" hit="Enable mnemonics in  menu" />
+    <option name="menu" hit="Enable mnemonics in  menu" />
+    <option name="mnemonics" hit="Enable mnemonics in  menu" />
+    <option name="controls" hit="Enable mnemonics in controls" />
+    <option name="enable" hit="Enable mnemonics in controls" />
+    <option name="in" hit="Enable mnemonics in controls" />
+    <option name="mnemonics" hit="Enable mnemonics in controls" />
     <option name="font" hit="Font size:" />
     <option name="size" hit="Font size:" />
     <option name="greyscale" hit="Greyscale" />
-    <option name="focus" hit="Hide navigation popups on focus loss" />
-    <option name="hide" hit="Hide navigation popups on focus loss" />
-    <option name="loss" hit="Hide navigation popups on focus loss" />
-    <option name="navigation" hit="Hide navigation popups on focus loss" />
-    <option name="on" hit="Hide navigation popups on focus loss" />
-    <option name="popups" hit="Hide navigation popups on focus loss" />
     <option name="how" hit="How it works" />
     <option name="it" hit="How it works" />
     <option name="works" hit="How it works" />
@@ -108,11 +84,6 @@
     <option name="presentation" hit="Presentation Mode" />
     <option name="requires" hit="Requires restart" />
     <option name="restart" hit="Requires restart" />
-    <option name="icons" hit="Show icons in quick navigation" />
-    <option name="in" hit="Show icons in quick navigation" />
-    <option name="navigation" hit="Show icons in quick navigation" />
-    <option name="quick" hit="Show icons in quick navigation" />
-    <option name="show" hit="Show icons in quick navigation" />
     <option name="bars" hit="Show tool window bars" />
     <option name="show" hit="Show tool window bars" />
     <option name="tool" hit="Show tool window bars" />
@@ -143,6 +114,8 @@
     <option name="screen" hit="Support screen readers" />
     <option name="support" hit="Support screen readers" />
     <option name="theme" hit="Theme:" />
+    <option name="tool" hit="Tool Windows" />
+    <option name="windows" hit="Tool Windows" />
     <option name="options" hit="UI Options" />
     <option name="ui" hit="UI Options" />
     <option name="contrast" hit="Use contrast scrollbars" />
@@ -160,8 +133,6 @@
     <option name="tool" hit="Widescreen tool window layout" />
     <option name="widescreen" hit="Widescreen tool window layout" />
     <option name="window" hit="Widescreen tool window layout" />
-    <option name="options" hit="Window Options" />
-    <option name="window" hit="Window Options" />
   </configurable>
   <configurable id="preferences.customizations" configurable_name="Menus and Toolbars">
     <option name="and" hit="Menus and Toolbars" />
@@ -169,6 +140,24 @@
     <option name="toolbars" hit="Menus and Toolbars" />
   </configurable>
   <configurable id="preferences.general" configurable_name="System Settings">
+    <option name="" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Autosave cannot be disabled completely.  How it works    " />
+    <option name="589df6" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Autosave cannot be disabled completely.  How it works    " />
+    <option name="800080" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Autosave cannot be disabled completely.  How it works    " />
+    <option name="a" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Autosave cannot be disabled completely.  How it works    " />
+    <option name="active" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Autosave cannot be disabled completely.  How it works    " />
+    <option name="autosave" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Autosave cannot be disabled completely.  How it works    " />
+    <option name="be" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Autosave cannot be disabled completely.  How it works    " />
+    <option name="cannot" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Autosave cannot be disabled completely.  How it works    " />
+    <option name="color" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Autosave cannot be disabled completely.  How it works    " />
+    <option name="completely" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Autosave cannot be disabled completely.  How it works    " />
+    <option name="disabled" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Autosave cannot be disabled completely.  How it works    " />
+    <option name="f00000" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Autosave cannot be disabled completely.  How it works    " />
+    <option name="hover" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Autosave cannot be disabled completely.  How it works    " />
+    <option name="how" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Autosave cannot be disabled completely.  How it works    " />
+    <option name="it" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Autosave cannot be disabled completely.  How it works    " />
+    <option name="link" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Autosave cannot be disabled completely.  How it works    " />
+    <option name="visited" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Autosave cannot be disabled completely.  How it works    " />
+    <option name="works" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Autosave cannot be disabled completely.  How it works    " />
     <option name="" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      This directory is preselected in &quot;Open...&quot; and &quot;New | Project...&quot; dialogs.   " />
     <option name="589df6" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      This directory is preselected in &quot;Open...&quot; and &quot;New | Project...&quot; dialogs.   " />
     <option name="800080" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      This directory is preselected in &quot;Open...&quot; and &quot;New | Project...&quot; dialogs.   " />
@@ -190,84 +179,76 @@
     <option name="this" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      This directory is preselected in &quot;Open...&quot; and &quot;New | Project...&quot; dialogs.   " />
     <option name="visited" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      This directory is preselected in &quot;Open...&quot; and &quot;New | Project...&quot; dialogs.   " />
     <option name="ask" hit="Ask" />
-    <option name="application" hit="Confirm application exit" />
-    <option name="confirm" hit="Confirm application exit" />
-    <option name="exit" hit="Confirm application exit" />
-    <option name="confirm" hit="Confirm window to open project in" />
-    <option name="in" hit="Confirm window to open project in" />
-    <option name="open" hit="Confirm window to open project in" />
-    <option name="project" hit="Confirm window to open project in" />
-    <option name="to" hit="Confirm window to open project in" />
-    <option name="window" hit="Confirm window to open project in" />
-    <option name="default" hit="Default directory:" />
-    <option name="directory" hit="Default directory:" />
-    <option name="available" hit="Disconnect (if available)" />
-    <option name="disconnect" hit="Disconnect (if available)" />
-    <option name="if" hit="Disconnect (if available)" />
-    <option name="closing" hit="On Closing Tool Window with Running Process" />
-    <option name="on" hit="On Closing Tool Window with Running Process" />
-    <option name="process" hit="On Closing Tool Window with Running Process" />
-    <option name="running" hit="On Closing Tool Window with Running Process" />
-    <option name="tool" hit="On Closing Tool Window with Running Process" />
-    <option name="window" hit="On Closing Tool Window with Running Process" />
-    <option name="with" hit="On Closing Tool Window with Running Process" />
-    <option name="in" hit="Open project in new window" />
-    <option name="new" hit="Open project in new window" />
-    <option name="open" hit="Open project in new window" />
-    <option name="project" hit="Open project in new window" />
-    <option name="window" hit="Open project in new window" />
-    <option name="in" hit="Open project in the same window" />
-    <option name="open" hit="Open project in the same window" />
-    <option name="project" hit="Open project in the same window" />
-    <option name="same" hit="Open project in the same window" />
-    <option name="the" hit="Open project in the same window" />
-    <option name="window" hit="Open project in the same window" />
-    <option name="opening" hit="Project Opening" />
-    <option name="project" hit="Project Opening" />
-    <option name="last" hit="Reopen last project on startup" />
-    <option name="on" hit="Reopen last project on startup" />
-    <option name="project" hit="Reopen last project on startup" />
-    <option name="reopen" hit="Reopen last project on startup" />
-    <option name="startup" hit="Reopen last project on startup" />
-    <option name="application" hit="Save files automatically if application is idle for" />
-    <option name="automatically" hit="Save files automatically if application is idle for" />
-    <option name="files" hit="Save files automatically if application is idle for" />
-    <option name="for" hit="Save files automatically if application is idle for" />
-    <option name="idle" hit="Save files automatically if application is idle for" />
-    <option name="if" hit="Save files automatically if application is idle for" />
-    <option name="is" hit="Save files automatically if application is idle for" />
-    <option name="save" hit="Save files automatically if application is idle for" />
-    <option name="deactivation" hit="Save files on frame deactivation" />
-    <option name="files" hit="Save files on frame deactivation" />
-    <option name="frame" hit="Save files on frame deactivation" />
-    <option name="on" hit="Save files on frame deactivation" />
-    <option name="save" hit="Save files on frame deactivation" />
-    <option name="shutdown" hit="Startup/Shutdown" />
-    <option name="startup" hit="Startup/Shutdown" />
-    <option name="synchronization" hit="Synchronization" />
-    <option name="activation" hit="Synchronize files on frame or editor tab activation" />
-    <option name="editor" hit="Synchronize files on frame or editor tab activation" />
-    <option name="files" hit="Synchronize files on frame or editor tab activation" />
-    <option name="frame" hit="Synchronize files on frame or editor tab activation" />
-    <option name="on" hit="Synchronize files on frame or editor tab activation" />
-    <option name="or" hit="Synchronize files on frame or editor tab activation" />
-    <option name="synchronize" hit="Synchronize files on frame or editor tab activation" />
-    <option name="tab" hit="Synchronize files on frame or editor tab activation" />
+    <option name="autosave" hit="Autosave" />
+    <option name="back" hit="Back up files before saving" />
+    <option name="before" hit="Back up files before saving" />
+    <option name="files" hit="Back up files before saving" />
+    <option name="saving" hit="Back up files before saving" />
+    <option name="up" hit="Back up files before saving" />
+    <option name="before" hit="Confirm before exiting the IDE" />
+    <option name="confirm" hit="Confirm before exiting the IDE" />
+    <option name="exiting" hit="Confirm before exiting the IDE" />
+    <option name="ide" hit="Confirm before exiting the IDE" />
+    <option name="the" hit="Confirm before exiting the IDE" />
+    <option name="current" hit="Current window" />
+    <option name="window" hit="Current window" />
+    <option name="default" hit="Default project directory:" />
+    <option name="directory" hit="Default project directory:" />
+    <option name="project" hit="Default project directory:" />
+    <option name="disconnect" hit="Disconnect" />
+    <option name="new" hit="New window" />
+    <option name="window" hit="New window" />
+    <option name="in" hit="Open project in" />
+    <option name="open" hit="Open project in" />
+    <option name="project" hit="Open project in" />
+    <option name="project" hit="Project" />
+    <option name="on" hit="Reopen projects on startup" />
+    <option name="projects" hit="Reopen projects on startup" />
+    <option name="reopen" hit="Reopen projects on startup" />
+    <option name="startup" hit="Reopen projects on startup" />
+    <option name="files" hit="Save files if the IDE is idle for" />
+    <option name="for" hit="Save files if the IDE is idle for" />
+    <option name="ide" hit="Save files if the IDE is idle for" />
+    <option name="idle" hit="Save files if the IDE is idle for" />
+    <option name="if" hit="Save files if the IDE is idle for" />
+    <option name="is" hit="Save files if the IDE is idle for" />
+    <option name="save" hit="Save files if the IDE is idle for" />
+    <option name="the" hit="Save files if the IDE is idle for" />
+    <option name="a" hit="Save files when switching to a different application" />
+    <option name="application" hit="Save files when switching to a different application" />
+    <option name="different" hit="Save files when switching to a different application" />
+    <option name="files" hit="Save files when switching to a different application" />
+    <option name="save" hit="Save files when switching to a different application" />
+    <option name="switching" hit="Save files when switching to a different application" />
+    <option name="to" hit="Save files when switching to a different application" />
+    <option name="when" hit="Save files when switching to a different application" />
+    <option name="an" hit="Synchronize external changes when switching to the IDE window or opening an editor tab" />
+    <option name="changes" hit="Synchronize external changes when switching to the IDE window or opening an editor tab" />
+    <option name="editor" hit="Synchronize external changes when switching to the IDE window or opening an editor tab" />
+    <option name="external" hit="Synchronize external changes when switching to the IDE window or opening an editor tab" />
+    <option name="ide" hit="Synchronize external changes when switching to the IDE window or opening an editor tab" />
+    <option name="opening" hit="Synchronize external changes when switching to the IDE window or opening an editor tab" />
+    <option name="or" hit="Synchronize external changes when switching to the IDE window or opening an editor tab" />
+    <option name="switching" hit="Synchronize external changes when switching to the IDE window or opening an editor tab" />
+    <option name="synchronize" hit="Synchronize external changes when switching to the IDE window or opening an editor tab" />
+    <option name="tab" hit="Synchronize external changes when switching to the IDE window or opening an editor tab" />
+    <option name="the" hit="Synchronize external changes when switching to the IDE window or opening an editor tab" />
+    <option name="to" hit="Synchronize external changes when switching to the IDE window or opening an editor tab" />
+    <option name="when" hit="Synchronize external changes when switching to the IDE window or opening an editor tab" />
+    <option name="window" hit="Synchronize external changes when switching to the IDE window or opening an editor tab" />
     <option name="settings" hit="System Settings" />
     <option name="system" hit="System Settings" />
     <option name="process" hit="Terminate process" />
     <option name="terminate" hit="Terminate process" />
-    <option name="a" hit="Use &quot;safe write&quot; (save changes to a temporary file first)" />
-    <option name="changes" hit="Use &quot;safe write&quot; (save changes to a temporary file first)" />
-    <option name="file" hit="Use &quot;safe write&quot; (save changes to a temporary file first)" />
-    <option name="first" hit="Use &quot;safe write&quot; (save changes to a temporary file first)" />
-    <option name="safe" hit="Use &quot;safe write&quot; (save changes to a temporary file first)" />
-    <option name="save" hit="Use &quot;safe write&quot; (save changes to a temporary file first)" />
-    <option name="temporary" hit="Use &quot;safe write&quot; (save changes to a temporary file first)" />
-    <option name="to" hit="Use &quot;safe write&quot; (save changes to a temporary file first)" />
-    <option name="use" hit="Use &quot;safe write&quot; (save changes to a temporary file first)" />
-    <option name="write" hit="Use &quot;safe write&quot; (save changes to a temporary file first)" />
-    <option name="sec" hit="sec." />
+    <option name="a" hit="When closing a tool window with a running process:" />
+    <option name="closing" hit="When closing a tool window with a running process:" />
+    <option name="process" hit="When closing a tool window with a running process:" />
+    <option name="running" hit="When closing a tool window with a running process:" />
+    <option name="tool" hit="When closing a tool window with a running process:" />
+    <option name="when" hit="When closing a tool window with a running process:" />
+    <option name="window" hit="When closing a tool window with a running process:" />
+    <option name="with" hit="When closing a tool window with a running process:" />
+    <option name="seconds" hit="seconds" />
   </configurable>
   <configurable id="consents" configurable_name="Data Sharing">
     <option name="" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}       Help JetBrains improve its products by sending anonymous data about features and plugins used, hardware and software configuration, statistics on types of files, number of files per project, etc.  Please note that this will not include personal data or any sensitive information, such as source code, file names, etc. The data sent complies with the  JetBrains Privacy Policy .    " />
@@ -405,14 +386,13 @@
     <option name="access" hit="Early Access Program" />
     <option name="early" hit="Early Access Program" />
     <option name="program" hit="Early Access Program" />
-    <option name="12" hit="IC-201.8743.12" />
-    <option name="8743" hit="IC-201.8743.12" />
-    <option name="ic-201" hit="IC-201.8743.12" />
-    <option name="1" hit="IntelliJ IDEA 2020.1.4" />
-    <option name="2020" hit="IntelliJ IDEA 2020.1.4" />
-    <option name="4" hit="IntelliJ IDEA 2020.1.4" />
-    <option name="idea" hit="IntelliJ IDEA 2020.1.4" />
-    <option name="intellij" hit="IntelliJ IDEA 2020.1.4" />
+    <option name="6397" hit="IC-202.6397.94" />
+    <option name="94" hit="IC-202.6397.94" />
+    <option name="ic-202" hit="IC-202.6397.94" />
+    <option name="2" hit="IntelliJ IDEA 2020.2" />
+    <option name="2020" hit="IntelliJ IDEA 2020.2" />
+    <option name="idea" hit="IntelliJ IDEA 2020.2" />
+    <option name="intellij" hit="IntelliJ IDEA 2020.2" />
     <option name="checked" hit="Last checked" />
     <option name="last" hit="Last checked" />
     <option name="channel" hit="Please note that this channel is less stable than your current one." />
@@ -436,36 +416,45 @@
     <option name="view" hit="View/edit ignored updates" />
   </configurable>
   <configurable id="reference.settings.ide.settings.file-colors" configurable_name="File Colors">
-    <option name="colors" hit="Enable File Colors" />
-    <option name="enable" hit="Enable File Colors" />
-    <option name="file" hit="Enable File Colors" />
+    <option name="" hit=" Files can belong to several scopes. If there are two colors for one scope, the color of the first scope in the list is used." />
+    <option name="are" hit=" Files can belong to several scopes. If there are two colors for one scope, the color of the first scope in the list is used." />
+    <option name="belong" hit=" Files can belong to several scopes. If there are two colors for one scope, the color of the first scope in the list is used." />
+    <option name="can" hit=" Files can belong to several scopes. If there are two colors for one scope, the color of the first scope in the list is used." />
+    <option name="color" hit=" Files can belong to several scopes. If there are two colors for one scope, the color of the first scope in the list is used." />
+    <option name="colors" hit=" Files can belong to several scopes. If there are two colors for one scope, the color of the first scope in the list is used." />
+    <option name="files" hit=" Files can belong to several scopes. If there are two colors for one scope, the color of the first scope in the list is used." />
+    <option name="first" hit=" Files can belong to several scopes. If there are two colors for one scope, the color of the first scope in the list is used." />
+    <option name="for" hit=" Files can belong to several scopes. If there are two colors for one scope, the color of the first scope in the list is used." />
+    <option name="if" hit=" Files can belong to several scopes. If there are two colors for one scope, the color of the first scope in the list is used." />
+    <option name="in" hit=" Files can belong to several scopes. If there are two colors for one scope, the color of the first scope in the list is used." />
+    <option name="is" hit=" Files can belong to several scopes. If there are two colors for one scope, the color of the first scope in the list is used." />
+    <option name="list" hit=" Files can belong to several scopes. If there are two colors for one scope, the color of the first scope in the list is used." />
+    <option name="of" hit=" Files can belong to several scopes. If there are two colors for one scope, the color of the first scope in the list is used." />
+    <option name="one" hit=" Files can belong to several scopes. If there are two colors for one scope, the color of the first scope in the list is used." />
+    <option name="scope" hit=" Files can belong to several scopes. If there are two colors for one scope, the color of the first scope in the list is used." />
+    <option name="scopes" hit=" Files can belong to several scopes. If there are two colors for one scope, the color of the first scope in the list is used." />
+    <option name="several" hit=" Files can belong to several scopes. If there are two colors for one scope, the color of the first scope in the list is used." />
+    <option name="the" hit=" Files can belong to several scopes. If there are two colors for one scope, the color of the first scope in the list is used." />
+    <option name="there" hit=" Files can belong to several scopes. If there are two colors for one scope, the color of the first scope in the list is used." />
+    <option name="to" hit=" Files can belong to several scopes. If there are two colors for one scope, the color of the first scope in the list is used." />
+    <option name="two" hit=" Files can belong to several scopes. If there are two colors for one scope, the color of the first scope in the list is used." />
+    <option name="used" hit=" Files can belong to several scopes. If there are two colors for one scope, the color of the first scope in the list is used." />
+    <option name="" hit=" Manage scopes" />
+    <option name="manage" hit=" Manage scopes" />
+    <option name="scopes" hit=" Manage scopes" />
+    <option name="colors" hit="Enable  File Colors" />
+    <option name="enable" hit="Enable  File Colors" />
+    <option name="file" hit="Enable  File Colors" />
     <option name="colors" hit="File Colors" />
     <option name="file" hit="File Colors" />
-    <option name="colors" hit="Local colors:" />
-    <option name="local" hit="Local colors:" />
-    <option name="manage" hit="Manage Scopes..." />
-    <option name="scopes" hit="Manage Scopes..." />
-    <option name="are" hit="Scopes are processed from top to bottom with Local colors first." />
-    <option name="bottom" hit="Scopes are processed from top to bottom with Local colors first." />
-    <option name="colors" hit="Scopes are processed from top to bottom with Local colors first." />
-    <option name="first" hit="Scopes are processed from top to bottom with Local colors first." />
-    <option name="from" hit="Scopes are processed from top to bottom with Local colors first." />
-    <option name="local" hit="Scopes are processed from top to bottom with Local colors first." />
-    <option name="processed" hit="Scopes are processed from top to bottom with Local colors first." />
-    <option name="scopes" hit="Scopes are processed from top to bottom with Local colors first." />
-    <option name="to" hit="Scopes are processed from top to bottom with Local colors first." />
-    <option name="top" hit="Scopes are processed from top to bottom with Local colors first." />
-    <option name="with" hit="Scopes are processed from top to bottom with Local colors first." />
-    <option name="colors" hit="Shared colors:" />
-    <option name="shared" hit="Shared colors:" />
-    <option name="editor" hit="Use in Editor Tabs" />
-    <option name="in" hit="Use in Editor Tabs" />
-    <option name="tabs" hit="Use in Editor Tabs" />
-    <option name="use" hit="Use in Editor Tabs" />
-    <option name="in" hit="Use in Project View" />
-    <option name="project" hit="Use in Project View" />
-    <option name="use" hit="Use in Project View" />
-    <option name="view" hit="Use in Project View" />
+    <option name="in" hit="Use in  Project View" />
+    <option name="project" hit="Use in  Project View" />
+    <option name="use" hit="Use in  Project View" />
+    <option name="view" hit="Use in  Project View" />
+    <option name="editor" hit="Use in Editor  Tabs" />
+    <option name="in" hit="Use in Editor  Tabs" />
+    <option name="tabs" hit="Use in Editor  Tabs" />
+    <option name="use" hit="Use in Editor  Tabs" />
   </configurable>
   <configurable id="project.scopes" configurable_name="Scopes">
     <option name="" hit="  Select a scope to view or edit its details here  " />
@@ -482,13 +471,25 @@
     <option name="scopes" hit="Scopes" />
   </configurable>
   <configurable id="reference.settings.ide.settings.notifications" configurable_name="Notifications">
+    <option name="balloon" hit="Balloon" />
     <option name="balloon" hit="Display balloon notifications" />
     <option name="display" hit="Display balloon notifications" />
     <option name="notifications" hit="Display balloon notifications" />
     <option name="enable" hit="Enable system notifications" />
     <option name="notifications" hit="Enable system notifications" />
     <option name="system" hit="Enable system notifications" />
+    <option name="log" hit="Log" />
+    <option name="no" hit="No popup" />
+    <option name="popup" hit="No popup" />
     <option name="notifications" hit="Notifications" />
+    <option name="play" hit="Play sound" />
+    <option name="sound" hit="Play sound" />
+    <option name="popup" hit="Popup type:" />
+    <option name="type" hit="Popup type:" />
+    <option name="aloud" hit="Read aloud" />
+    <option name="read" hit="Read aloud" />
+    <option name="balloon" hit="Sticky balloon" />
+    <option name="sticky" hit="Sticky balloon" />
   </configurable>
   <configurable id="reference.idesettings.quicklists" configurable_name="Quick Lists">
     <option name="" hit=" Quick Lists allow you to define commonly used groups of actions (for example, refactoring or VCS actions) and to assign keyboard shortcuts to such groups. " />
@@ -570,6 +571,12 @@
     <option name="activate" path="ActionManager" hit="Activate Previous Window" />
     <option name="previous" path="ActionManager" hit="Activate Previous Window" />
     <option name="window" path="ActionManager" hit="Activate Previous Window" />
+    <option name="activate" path="ActionManager" hit="Activate inplace button inside the template" />
+    <option name="button" path="ActionManager" hit="Activate inplace button inside the template" />
+    <option name="inplace" path="ActionManager" hit="Activate inplace button inside the template" />
+    <option name="inside" path="ActionManager" hit="Activate inplace button inside the template" />
+    <option name="template" path="ActionManager" hit="Activate inplace button inside the template" />
+    <option name="the" path="ActionManager" hit="Activate inplace button inside the template" />
     <option name="activate" path="ActionManager" hit="Activate last focused tool window" />
     <option name="focused" path="ActionManager" hit="Activate last focused tool window" />
     <option name="last" path="ActionManager" hit="Activate last focused tool window" />
@@ -635,6 +642,13 @@
     <option name="all" path="ActionManager" hit="Add All To Favorites" />
     <option name="favorites" path="ActionManager" hit="Add All To Favorites" />
     <option name="to" path="ActionManager" hit="Add All To Favorites" />
+    <option name="add" path="ActionManager" hit="Add Carets to Ends of Selected Lines" />
+    <option name="carets" path="ActionManager" hit="Add Carets to Ends of Selected Lines" />
+    <option name="ends" path="ActionManager" hit="Add Carets to Ends of Selected Lines" />
+    <option name="lines" path="ActionManager" hit="Add Carets to Ends of Selected Lines" />
+    <option name="of" path="ActionManager" hit="Add Carets to Ends of Selected Lines" />
+    <option name="selected" path="ActionManager" hit="Add Carets to Ends of Selected Lines" />
+    <option name="to" path="ActionManager" hit="Add Carets to Ends of Selected Lines" />
     <option name="add" path="ActionManager" hit="Add Inlay..." />
     <option name="inlay" path="ActionManager" hit="Add Inlay..." />
     <option name="add" path="ActionManager" hit="Add Many Test Processes" />
@@ -748,6 +762,18 @@
     <option name="to" path="ActionManager" hit="Allows to find out what fallback fonts are actually used in editor" />
     <option name="used" path="ActionManager" hit="Allows to find out what fallback fonts are actually used in editor" />
     <option name="what" path="ActionManager" hit="Allows to find out what fallback fonts are actually used in editor" />
+    <option name="allows" path="ActionManager" hit="Allows to sort problems by name" />
+    <option name="by" path="ActionManager" hit="Allows to sort problems by name" />
+    <option name="name" path="ActionManager" hit="Allows to sort problems by name" />
+    <option name="problems" path="ActionManager" hit="Allows to sort problems by name" />
+    <option name="sort" path="ActionManager" hit="Allows to sort problems by name" />
+    <option name="to" path="ActionManager" hit="Allows to sort problems by name" />
+    <option name="allows" path="ActionManager" hit="Allows to sort problems by severity" />
+    <option name="by" path="ActionManager" hit="Allows to sort problems by severity" />
+    <option name="problems" path="ActionManager" hit="Allows to sort problems by severity" />
+    <option name="severity" path="ActionManager" hit="Allows to sort problems by severity" />
+    <option name="sort" path="ActionManager" hit="Allows to sort problems by severity" />
+    <option name="to" path="ActionManager" hit="Allows to sort problems by severity" />
     <option name="always" path="ActionManager" hit="Always Select Opened File" />
     <option name="file" path="ActionManager" hit="Always Select Opened File" />
     <option name="opened" path="ActionManager" hit="Always Select Opened File" />
@@ -824,6 +850,8 @@
     <option name="show" path="ActionManager" hit="Auto Show" />
     <option name="auto-indent" path="ActionManager" hit="Auto-Indent Lines" />
     <option name="lines" path="ActionManager" hit="Auto-Indent Lines" />
+    <option name="auto-reload" path="ActionManager" hit="Auto-Reload Settings..." />
+    <option name="settings" path="ActionManager" hit="Auto-Reload Settings..." />
     <option name="after" path="ActionManager" hit="Auto-reload the project after VCS updates and changes to build files made outside IDE" />
     <option name="and" path="ActionManager" hit="Auto-reload the project after VCS updates and changes to build files made outside IDE" />
     <option name="auto-reload" path="ActionManager" hit="Auto-reload the project after VCS updates and changes to build files made outside IDE" />
@@ -1493,6 +1521,9 @@
     <option name="copy" path="ActionManager" hit="Copy Preferences Path" />
     <option name="path" path="ActionManager" hit="Copy Preferences Path" />
     <option name="preferences" path="ActionManager" hit="Copy Preferences Path" />
+    <option name="copy" path="ActionManager" hit="Copy Problem Description" />
+    <option name="description" path="ActionManager" hit="Copy Problem Description" />
+    <option name="problem" path="ActionManager" hit="Copy Problem Description" />
     <option name="copy" path="ActionManager" hit="Copy Quick Doc" />
     <option name="doc" path="ActionManager" hit="Copy Quick Doc" />
     <option name="quick" path="ActionManager" hit="Copy Quick Doc" />
@@ -1528,6 +1559,11 @@
     <option name="paths" path="ActionManager" hit="Copy paths corresponding to selected files or directories to clipboard" />
     <option name="selected" path="ActionManager" hit="Copy paths corresponding to selected files or directories to clipboard" />
     <option name="to" path="ActionManager" hit="Copy paths corresponding to selected files or directories to clipboard" />
+    <option name="clipboard" path="ActionManager" hit="Copy problem description to clipboard" />
+    <option name="copy" path="ActionManager" hit="Copy problem description to clipboard" />
+    <option name="description" path="ActionManager" hit="Copy problem description to clipboard" />
+    <option name="problem" path="ActionManager" hit="Copy problem description to clipboard" />
+    <option name="to" path="ActionManager" hit="Copy problem description to clipboard" />
     <option name="a" path="ActionManager" hit="Copy reference to selected class, method or function, or a relative path to selected file" />
     <option name="class" path="ActionManager" hit="Copy reference to selected class, method or function, or a relative path to selected file" />
     <option name="copy" path="ActionManager" hit="Copy reference to selected class, method or function, or a relative path to selected file" />
@@ -1740,6 +1776,11 @@
     <option name="configuration" path="ActionManager" hit="Debug context configuration" />
     <option name="context" path="ActionManager" hit="Debug context configuration" />
     <option name="debug" path="ActionManager" hit="Debug context configuration" />
+    <option name="command" path="ActionManager" hit="Debug highlighted command using IDE" />
+    <option name="debug" path="ActionManager" hit="Debug highlighted command using IDE" />
+    <option name="highlighted" path="ActionManager" hit="Debug highlighted command using IDE" />
+    <option name="ide" path="ActionManager" hit="Debug highlighted command using IDE" />
+    <option name="using" path="ActionManager" hit="Debug highlighted command using IDE" />
     <option name="configuration" path="ActionManager" hit="Debug selected configuration" />
     <option name="debug" path="ActionManager" hit="Debug selected configuration" />
     <option name="selected" path="ActionManager" hit="Debug selected configuration" />
@@ -1972,6 +2013,10 @@
     <option name="lookup" path="ActionManager" hit="Dump Lookup Element Weights to Log" />
     <option name="to" path="ActionManager" hit="Dump Lookup Element Weights to Log" />
     <option name="weights" path="ActionManager" hit="Dump Lookup Element Weights to Log" />
+    <option name="dump" path="ActionManager" hit="Dump Portable Project Files" />
+    <option name="files" path="ActionManager" hit="Dump Portable Project Files" />
+    <option name="portable" path="ActionManager" hit="Dump Portable Project Files" />
+    <option name="project" path="ActionManager" hit="Dump Portable Project Files" />
     <option name="dump" path="ActionManager" hit="Dump Results" />
     <option name="results" path="ActionManager" hit="Dump Results" />
     <option name="configuration" path="ActionManager" hit="Dump Screen Configuration" />
@@ -2029,6 +2074,14 @@
     <option name="preferences" path="ActionManager" hit="Edit application preferences" />
     <option name="breakpoint" path="ActionManager" hit="Edit breakpoint" />
     <option name="edit" path="ActionManager" hit="Edit breakpoint" />
+    <option name="build" path="ActionManager" hit="Edit build tools settings for the current project" />
+    <option name="current" path="ActionManager" hit="Edit build tools settings for the current project" />
+    <option name="edit" path="ActionManager" hit="Edit build tools settings for the current project" />
+    <option name="for" path="ActionManager" hit="Edit build tools settings for the current project" />
+    <option name="project" path="ActionManager" hit="Edit build tools settings for the current project" />
+    <option name="settings" path="ActionManager" hit="Edit build tools settings for the current project" />
+    <option name="the" path="ActionManager" hit="Edit build tools settings for the current project" />
+    <option name="tools" path="ActionManager" hit="Edit build tools settings for the current project" />
     <option name="bookmark" path="ActionManager" hit="Edit description of this bookmark" />
     <option name="description" path="ActionManager" hit="Edit description of this bookmark" />
     <option name="edit" path="ActionManager" hit="Edit description of this bookmark" />
@@ -2347,11 +2400,10 @@
     <option name="with" path="ActionManager" hit="Extend Selection with Previous Row" />
     <option name="documentation" path="ActionManager" hit="External Documentation" />
     <option name="external" path="ActionManager" hit="External Documentation" />
-    <option name="external" path="ActionManager" hit="External Settings" />
-    <option name="settings" path="ActionManager" hit="External Settings" />
+    <option name="external" path="ActionManager" hit="External Settings..." />
+    <option name="settings" path="ActionManager" hit="External Settings..." />
     <option name="external" path="ActionManager" hit="External Tools" />
     <option name="tools" path="ActionManager" hit="External Tools" />
-    <option name="extract" path="ActionManager" hit="Extract" />
     <option name="delegate" path="ActionManager" hit="Extract Delegate" />
     <option name="extract" path="ActionManager" hit="Extract Delegate" />
     <option name="delegate" path="ActionManager" hit="Extract Delegate..." />
@@ -2382,9 +2434,13 @@
     <option name="selected" path="ActionManager" hit="Extract superclass from the selected class" />
     <option name="superclass" path="ActionManager" hit="Extract superclass from the selected class" />
     <option name="the" path="ActionManager" hit="Extract superclass from the selected class" />
+    <option name="extract" path="ActionManager" hit="Extract/Introduce" />
+    <option name="introduce" path="ActionManager" hit="Extract/Introduce" />
     <option name="file" path="ActionManager" hit="File" />
     <option name="encoding" path="ActionManager" hit="File Encoding" />
     <option name="file" path="ActionManager" hit="File Encoding" />
+    <option name="file" path="ActionManager" hit="File Name" />
+    <option name="name" path="ActionManager" hit="File Name" />
     <option name="file" path="ActionManager" hit="File Path" />
     <option name="path" path="ActionManager" hit="File Path" />
     <option name="file" path="ActionManager" hit="File Structure" />
@@ -2606,6 +2662,15 @@
     <option name="or" path="ActionManager" hit="Generate or fix doc comment for the current context" />
     <option name="the" path="ActionManager" hit="Generate or fix doc comment for the current context" />
     <option name="generate" path="ActionManager" hit="Generate..." />
+    <option name="files" path="ActionManager" hit="Generates project files list for internal testing of project opening" />
+    <option name="for" path="ActionManager" hit="Generates project files list for internal testing of project opening" />
+    <option name="generates" path="ActionManager" hit="Generates project files list for internal testing of project opening" />
+    <option name="internal" path="ActionManager" hit="Generates project files list for internal testing of project opening" />
+    <option name="list" path="ActionManager" hit="Generates project files list for internal testing of project opening" />
+    <option name="of" path="ActionManager" hit="Generates project files list for internal testing of project opening" />
+    <option name="opening" path="ActionManager" hit="Generates project files list for internal testing of project opening" />
+    <option name="project" path="ActionManager" hit="Generates project files list for internal testing of project opening" />
+    <option name="testing" path="ActionManager" hit="Generates project files list for internal testing of project opening" />
     <option name="getting" path="ActionManager" hit="Getting Started" />
     <option name="started" path="ActionManager" hit="Getting Started" />
     <option name="0" path="ActionManager" hit="Go to Bookmark 0" />
@@ -3088,6 +3153,14 @@
     <option name="edit" path="ActionManager" hit="Last Edit Location" />
     <option name="last" path="ActionManager" hit="Last Edit Location" />
     <option name="location" path="ActionManager" hit="Last Edit Location" />
+    <option name="action" path="ActionManager" hit="Launches the highlighted action using the relevant IDE feature" />
+    <option name="feature" path="ActionManager" hit="Launches the highlighted action using the relevant IDE feature" />
+    <option name="highlighted" path="ActionManager" hit="Launches the highlighted action using the relevant IDE feature" />
+    <option name="ide" path="ActionManager" hit="Launches the highlighted action using the relevant IDE feature" />
+    <option name="launches" path="ActionManager" hit="Launches the highlighted action using the relevant IDE feature" />
+    <option name="relevant" path="ActionManager" hit="Launches the highlighted action using the relevant IDE feature" />
+    <option name="the" path="ActionManager" hit="Launches the highlighted action using the relevant IDE feature" />
+    <option name="using" path="ActionManager" hit="Launches the highlighted action using the relevant IDE feature" />
     <option name="coding" path="ActionManager" hit="Learn how to increase your coding productivity." />
     <option name="how" path="ActionManager" hit="Learn how to increase your coding productivity." />
     <option name="increase" path="ActionManager" hit="Learn how to increase your coding productivity." />
@@ -3914,6 +3987,9 @@
     <option name="new" path="ActionManager" hit="Open Each in New Tab" />
     <option name="open" path="ActionManager" hit="Open Each in New Tab" />
     <option name="tab" path="ActionManager" hit="Open Each in New Tab" />
+    <option name="editor" path="ActionManager" hit="Open Editor Preview" />
+    <option name="open" path="ActionManager" hit="Open Editor Preview" />
+    <option name="preview" path="ActionManager" hit="Open Editor Preview" />
     <option name="config" path="ActionManager" hit="Open External Config" />
     <option name="external" path="ActionManager" hit="Open External Config" />
     <option name="open" path="ActionManager" hit="Open External Config" />
@@ -3973,6 +4049,19 @@
     <option name="tab" path="ActionManager" hit="Open a copy of this editor in the opposite tab group" />
     <option name="the" path="ActionManager" hit="Open a copy of this editor in the opposite tab group" />
     <option name="this" path="ActionManager" hit="Open a copy of this editor in the opposite tab group" />
+    <option name="a" path="ActionManager" hit="Open a preview for selected file and navigate to selected problem on selection changed" />
+    <option name="and" path="ActionManager" hit="Open a preview for selected file and navigate to selected problem on selection changed" />
+    <option name="changed" path="ActionManager" hit="Open a preview for selected file and navigate to selected problem on selection changed" />
+    <option name="file" path="ActionManager" hit="Open a preview for selected file and navigate to selected problem on selection changed" />
+    <option name="for" path="ActionManager" hit="Open a preview for selected file and navigate to selected problem on selection changed" />
+    <option name="navigate" path="ActionManager" hit="Open a preview for selected file and navigate to selected problem on selection changed" />
+    <option name="on" path="ActionManager" hit="Open a preview for selected file and navigate to selected problem on selection changed" />
+    <option name="open" path="ActionManager" hit="Open a preview for selected file and navigate to selected problem on selection changed" />
+    <option name="preview" path="ActionManager" hit="Open a preview for selected file and navigate to selected problem on selection changed" />
+    <option name="problem" path="ActionManager" hit="Open a preview for selected file and navigate to selected problem on selection changed" />
+    <option name="selected" path="ActionManager" hit="Open a preview for selected file and navigate to selected problem on selection changed" />
+    <option name="selection" path="ActionManager" hit="Open a preview for selected file and navigate to selected problem on selection changed" />
+    <option name="to" path="ActionManager" hit="Open a preview for selected file and navigate to selected problem on selection changed" />
     <option name="a" path="ActionManager" hit="Open a project or a file in editor" />
     <option name="editor" path="ActionManager" hit="Open a project or a file in editor" />
     <option name="file" path="ActionManager" hit="Open a project or a file in editor" />
@@ -3980,6 +4069,19 @@
     <option name="open" path="ActionManager" hit="Open a project or a file in editor" />
     <option name="or" path="ActionManager" hit="Open a project or a file in editor" />
     <option name="project" path="ActionManager" hit="Open a project or a file in editor" />
+    <option name="an" path="ActionManager" hit="Open an editor for selected file and navigate to selected problem on selection changed" />
+    <option name="and" path="ActionManager" hit="Open an editor for selected file and navigate to selected problem on selection changed" />
+    <option name="changed" path="ActionManager" hit="Open an editor for selected file and navigate to selected problem on selection changed" />
+    <option name="editor" path="ActionManager" hit="Open an editor for selected file and navigate to selected problem on selection changed" />
+    <option name="file" path="ActionManager" hit="Open an editor for selected file and navigate to selected problem on selection changed" />
+    <option name="for" path="ActionManager" hit="Open an editor for selected file and navigate to selected problem on selection changed" />
+    <option name="navigate" path="ActionManager" hit="Open an editor for selected file and navigate to selected problem on selection changed" />
+    <option name="on" path="ActionManager" hit="Open an editor for selected file and navigate to selected problem on selection changed" />
+    <option name="open" path="ActionManager" hit="Open an editor for selected file and navigate to selected problem on selection changed" />
+    <option name="problem" path="ActionManager" hit="Open an editor for selected file and navigate to selected problem on selection changed" />
+    <option name="selected" path="ActionManager" hit="Open an editor for selected file and navigate to selected problem on selection changed" />
+    <option name="selection" path="ActionManager" hit="Open an editor for selected file and navigate to selected problem on selection changed" />
+    <option name="to" path="ActionManager" hit="Open an editor for selected file and navigate to selected problem on selection changed" />
     <option name="browser" path="ActionManager" hit="Open browser with documentation for the selected item" />
     <option name="documentation" path="ActionManager" hit="Open browser with documentation for the selected item" />
     <option name="for" path="ActionManager" hit="Open browser with documentation for the selected item" />
@@ -4035,13 +4137,20 @@
     <option name="screen" path="ActionManager" hit="Open file or project. You can also open a project or edit a file by drag and drop onto Welcome screen." />
     <option name="welcome" path="ActionManager" hit="Open file or project. You can also open a project or edit a file by drag and drop onto Welcome screen." />
     <option name="you" path="ActionManager" hit="Open file or project. You can also open a project or edit a file by drag and drop onto Welcome screen." />
+    <option name="browser" path="ActionManager" hit="Open in Browser" />
+    <option name="in" path="ActionManager" hit="Open in Browser" />
+    <option name="open" path="ActionManager" hit="Open in Browser" />
     <option name="in" path="ActionManager" hit="Open in New Tab" />
     <option name="new" path="ActionManager" hit="Open in New Tab" />
     <option name="open" path="ActionManager" hit="Open in New Tab" />
     <option name="tab" path="ActionManager" hit="Open in New Tab" />
-    <option name="import" path="ActionManager" hit="Open or Import..." />
-    <option name="open" path="ActionManager" hit="Open or Import..." />
-    <option name="or" path="ActionManager" hit="Open or Import..." />
+    <option name="browser" path="ActionManager" hit="Open in default browser" />
+    <option name="default" path="ActionManager" hit="Open in default browser" />
+    <option name="in" path="ActionManager" hit="Open in default browser" />
+    <option name="open" path="ActionManager" hit="Open in default browser" />
+    <option name="import" path="ActionManager" hit="Open or Import" />
+    <option name="open" path="ActionManager" hit="Open or Import" />
+    <option name="or" path="ActionManager" hit="Open or Import" />
     <option name="hints" path="ActionManager" hit="Open parameter name hints settings" />
     <option name="name" path="ActionManager" hit="Open parameter name hints settings" />
     <option name="open" path="ActionManager" hit="Open parameter name hints settings" />
@@ -4051,6 +4160,17 @@
     <option name="recent" path="ActionManager" hit="Open recent test session" />
     <option name="session" path="ActionManager" hit="Open recent test session" />
     <option name="test" path="ActionManager" hit="Open recent test session" />
+    <option name="browser" path="ActionManager" hit="Open selected file in browser" />
+    <option name="file" path="ActionManager" hit="Open selected file in browser" />
+    <option name="in" path="ActionManager" hit="Open selected file in browser" />
+    <option name="open" path="ActionManager" hit="Open selected file in browser" />
+    <option name="selected" path="ActionManager" hit="Open selected file in browser" />
+    <option name="browser" path="ActionManager" hit="Open selected file in default browser" />
+    <option name="default" path="ActionManager" hit="Open selected file in default browser" />
+    <option name="file" path="ActionManager" hit="Open selected file in default browser" />
+    <option name="in" path="ActionManager" hit="Open selected file in default browser" />
+    <option name="open" path="ActionManager" hit="Open selected file in default browser" />
+    <option name="selected" path="ActionManager" hit="Open selected file in default browser" />
     <option name="in" path="ActionManager" hit="Open source in new window" />
     <option name="new" path="ActionManager" hit="Open source in new window" />
     <option name="open" path="ActionManager" hit="Open source in new window" />
@@ -4148,6 +4268,10 @@
     <option name="info" path="ActionManager" hit="Parameter Info" />
     <option name="parameter" path="ActionManager" hit="Parameter Info" />
     <option name="paste" path="ActionManager" hit="Paste" />
+    <option name="as" path="ActionManager" hit="Paste as Plain Text" />
+    <option name="paste" path="ActionManager" hit="Paste as Plain Text" />
+    <option name="plain" path="ActionManager" hit="Paste as Plain Text" />
+    <option name="text" path="ActionManager" hit="Paste as Plain Text" />
     <option name="from" path="ActionManager" hit="Paste from History..." />
     <option name="history" path="ActionManager" hit="Paste from History..." />
     <option name="paste" path="ActionManager" hit="Paste from History..." />
@@ -4162,9 +4286,6 @@
     <option name="from" path="ActionManager" hit="Paste from recent clipboards" />
     <option name="paste" path="ActionManager" hit="Paste from recent clipboards" />
     <option name="recent" path="ActionManager" hit="Paste from recent clipboards" />
-    <option name="formatting" path="ActionManager" hit="Paste without Formatting" />
-    <option name="paste" path="ActionManager" hit="Paste without Formatting" />
-    <option name="without" path="ActionManager" hit="Paste without Formatting" />
     <option name="autoimport" path="ActionManager" hit="Paste without formatting, autoimport, literal escaping etc." />
     <option name="escaping" path="ActionManager" hit="Paste without formatting, autoimport, literal escaping etc." />
     <option name="etc" path="ActionManager" hit="Paste without formatting, autoimport, literal escaping etc." />
@@ -4193,6 +4314,16 @@
     <option name="on" path="ActionManager" hit="Perform Action on Selected Item" />
     <option name="perform" path="ActionManager" hit="Perform Action on Selected Item" />
     <option name="selected" path="ActionManager" hit="Perform Action on Selected Item" />
+    <option name="action" path="ActionManager" hit="Performs the highlighted action using the relevant IDE feature under debugger" />
+    <option name="debugger" path="ActionManager" hit="Performs the highlighted action using the relevant IDE feature under debugger" />
+    <option name="feature" path="ActionManager" hit="Performs the highlighted action using the relevant IDE feature under debugger" />
+    <option name="highlighted" path="ActionManager" hit="Performs the highlighted action using the relevant IDE feature under debugger" />
+    <option name="ide" path="ActionManager" hit="Performs the highlighted action using the relevant IDE feature under debugger" />
+    <option name="performs" path="ActionManager" hit="Performs the highlighted action using the relevant IDE feature under debugger" />
+    <option name="relevant" path="ActionManager" hit="Performs the highlighted action using the relevant IDE feature under debugger" />
+    <option name="the" path="ActionManager" hit="Performs the highlighted action using the relevant IDE feature under debugger" />
+    <option name="under" path="ActionManager" hit="Performs the highlighted action using the relevant IDE feature under debugger" />
+    <option name="using" path="ActionManager" hit="Performs the highlighted action using the relevant IDE feature under debugger" />
     <option name="active" path="ActionManager" hit="Pin Active Tab" />
     <option name="pin" path="ActionManager" hit="Pin Active Tab" />
     <option name="tab" path="ActionManager" hit="Pin Active Tab" />
@@ -4472,6 +4603,9 @@
     <option name="reload" path="ActionManager" hit="Reload External Project" />
     <option name="project" path="ActionManager" hit="Reload Project" />
     <option name="reload" path="ActionManager" hit="Reload Project" />
+    <option name="disk" path="ActionManager" hit="Reload from Disk" />
+    <option name="from" path="ActionManager" hit="Reload from Disk" />
+    <option name="reload" path="ActionManager" hit="Reload from Disk" />
     <option name="all" path="ActionManager" hit="Remove All Breakpoints" />
     <option name="breakpoints" path="ActionManager" hit="Remove All Breakpoints" />
     <option name="remove" path="ActionManager" hit="Remove All Breakpoints" />
@@ -4544,8 +4678,10 @@
     <option name="symbol" path="ActionManager" hit="Rename the selected symbol and correct all references" />
     <option name="the" path="ActionManager" hit="Rename the selected symbol and correct all references" />
     <option name="rename" path="ActionManager" hit="Rename..." />
-    <option name="all" path="ActionManager" hit="Render All" />
-    <option name="render" path="ActionManager" hit="Render All" />
+    <option name="all" path="ActionManager" hit="Render All Doc Comments" />
+    <option name="comments" path="ActionManager" hit="Render All Doc Comments" />
+    <option name="doc" path="ActionManager" hit="Render All Doc Comments" />
+    <option name="render" path="ActionManager" hit="Render All Doc Comments" />
     <option name="closed" path="ActionManager" hit="Reopen Closed Tab" />
     <option name="reopen" path="ActionManager" hit="Reopen Closed Tab" />
     <option name="tab" path="ActionManager" hit="Reopen Closed Tab" />
@@ -4785,6 +4921,11 @@
     <option name="configuration" path="ActionManager" hit="Run context configuration" />
     <option name="context" path="ActionManager" hit="Run context configuration" />
     <option name="run" path="ActionManager" hit="Run context configuration" />
+    <option name="command" path="ActionManager" hit="Run highlighted command using IDE" />
+    <option name="highlighted" path="ActionManager" hit="Run highlighted command using IDE" />
+    <option name="ide" path="ActionManager" hit="Run highlighted command using IDE" />
+    <option name="run" path="ActionManager" hit="Run highlighted command using IDE" />
+    <option name="using" path="ActionManager" hit="Run highlighted command using IDE" />
     <option name="inspection" path="ActionManager" hit="Run inspection on ..." />
     <option name="on" path="ActionManager" hit="Run inspection on ..." />
     <option name="run" path="ActionManager" hit="Run inspection on ..." />
@@ -5654,6 +5795,9 @@
     <option name="powered" path="ActionManager" hit="Show Powered Progress" />
     <option name="progress" path="ActionManager" hit="Show Powered Progress" />
     <option name="show" path="ActionManager" hit="Show Powered Progress" />
+    <option name="fixes" path="ActionManager" hit="Show Quick Fixes" />
+    <option name="quick" path="ActionManager" hit="Show Quick Fixes" />
+    <option name="show" path="ActionManager" hit="Show Quick Fixes" />
     <option name="objects" path="ActionManager" hit="Show Referring Objects..." />
     <option name="referring" path="ActionManager" hit="Show Referring Objects..." />
     <option name="show" path="ActionManager" hit="Show Referring Objects..." />
@@ -5742,6 +5886,14 @@
     <option name="session" path="ActionManager" hit="Show available debugger session values inside editor" />
     <option name="show" path="ActionManager" hit="Show available debugger session values inside editor" />
     <option name="values" path="ActionManager" hit="Show available debugger session values inside editor" />
+    <option name="a" path="ActionManager" hit="Show available quick fixes for a selected problem" />
+    <option name="available" path="ActionManager" hit="Show available quick fixes for a selected problem" />
+    <option name="fixes" path="ActionManager" hit="Show available quick fixes for a selected problem" />
+    <option name="for" path="ActionManager" hit="Show available quick fixes for a selected problem" />
+    <option name="problem" path="ActionManager" hit="Show available quick fixes for a selected problem" />
+    <option name="quick" path="ActionManager" hit="Show available quick fixes for a selected problem" />
+    <option name="selected" path="ActionManager" hit="Show available quick fixes for a selected problem" />
+    <option name="show" path="ActionManager" hit="Show available quick fixes for a selected problem" />
     <option name="any" path="ActionManager" hit="Show background tasks window on starting of any progress" />
     <option name="background" path="ActionManager" hit="Show background tasks window on starting of any progress" />
     <option name="of" path="ActionManager" hit="Show background tasks window on starting of any progress" />
@@ -6051,6 +6203,12 @@
     <option name="alphabetically" path="ActionManager" hit="Sort Values Alphabetically" />
     <option name="sort" path="ActionManager" hit="Sort Values Alphabetically" />
     <option name="values" path="ActionManager" hit="Sort Values Alphabetically" />
+    <option name="by" path="ActionManager" hit="Sort by Name" />
+    <option name="name" path="ActionManager" hit="Sort by Name" />
+    <option name="sort" path="ActionManager" hit="Sort by Name" />
+    <option name="by" path="ActionManager" hit="Sort by Severity" />
+    <option name="severity" path="ActionManager" hit="Sort by Severity" />
+    <option name="sort" path="ActionManager" hit="Sort by Severity" />
     <option name="by" path="ActionManager" hit="Sort by Type" />
     <option name="sort" path="ActionManager" hit="Sort by Type" />
     <option name="type" path="ActionManager" hit="Sort by Type" />
@@ -6255,6 +6413,42 @@
     <option name="stop" path="ActionManager" hit="Stop Background processes" />
     <option name="process" path="ActionManager" hit="Stop process" />
     <option name="stop" path="ActionManager" hit="Stop process" />
+    <option name="bottom" path="ActionManager" hit="Stretch Editor to Bottom" />
+    <option name="editor" path="ActionManager" hit="Stretch Editor to Bottom" />
+    <option name="stretch" path="ActionManager" hit="Stretch Editor to Bottom" />
+    <option name="to" path="ActionManager" hit="Stretch Editor to Bottom" />
+    <option name="editor" path="ActionManager" hit="Stretch Editor to Left" />
+    <option name="left" path="ActionManager" hit="Stretch Editor to Left" />
+    <option name="stretch" path="ActionManager" hit="Stretch Editor to Left" />
+    <option name="to" path="ActionManager" hit="Stretch Editor to Left" />
+    <option name="editor" path="ActionManager" hit="Stretch Editor to Right" />
+    <option name="right" path="ActionManager" hit="Stretch Editor to Right" />
+    <option name="stretch" path="ActionManager" hit="Stretch Editor to Right" />
+    <option name="to" path="ActionManager" hit="Stretch Editor to Right" />
+    <option name="editor" path="ActionManager" hit="Stretch Editor to Top" />
+    <option name="stretch" path="ActionManager" hit="Stretch Editor to Top" />
+    <option name="to" path="ActionManager" hit="Stretch Editor to Top" />
+    <option name="top" path="ActionManager" hit="Stretch Editor to Top" />
+    <option name="bottom" path="ActionManager" hit="Stretch editor split to bottom" />
+    <option name="editor" path="ActionManager" hit="Stretch editor split to bottom" />
+    <option name="split" path="ActionManager" hit="Stretch editor split to bottom" />
+    <option name="stretch" path="ActionManager" hit="Stretch editor split to bottom" />
+    <option name="to" path="ActionManager" hit="Stretch editor split to bottom" />
+    <option name="editor" path="ActionManager" hit="Stretch editor split to left" />
+    <option name="left" path="ActionManager" hit="Stretch editor split to left" />
+    <option name="split" path="ActionManager" hit="Stretch editor split to left" />
+    <option name="stretch" path="ActionManager" hit="Stretch editor split to left" />
+    <option name="to" path="ActionManager" hit="Stretch editor split to left" />
+    <option name="editor" path="ActionManager" hit="Stretch editor split to right" />
+    <option name="right" path="ActionManager" hit="Stretch editor split to right" />
+    <option name="split" path="ActionManager" hit="Stretch editor split to right" />
+    <option name="stretch" path="ActionManager" hit="Stretch editor split to right" />
+    <option name="to" path="ActionManager" hit="Stretch editor split to right" />
+    <option name="editor" path="ActionManager" hit="Stretch editor split to top" />
+    <option name="split" path="ActionManager" hit="Stretch editor split to top" />
+    <option name="stretch" path="ActionManager" hit="Stretch editor split to top" />
+    <option name="to" path="ActionManager" hit="Stretch editor split to top" />
+    <option name="top" path="ActionManager" hit="Stretch editor split to top" />
     <option name="bottom" path="ActionManager" hit="Stretch to Bottom" />
     <option name="stretch" path="ActionManager" hit="Stretch to Bottom" />
     <option name="to" path="ActionManager" hit="Stretch to Bottom" />
@@ -6921,12 +7115,11 @@
     <option name="for" hit="Color scheme for copied fragment:" />
     <option name="fragment" hit="Color scheme for copied fragment:" />
     <option name="scheme" hit="Color scheme for copied fragment:" />
-    <option name="a" hit="Copy ( C) a text fragment as:" />
-    <option name="as" hit="Copy ( C) a text fragment as:" />
-    <option name="c" hit="Copy ( C) a text fragment as:" />
-    <option name="copy" hit="Copy ( C) a text fragment as:" />
-    <option name="fragment" hit="Copy ( C) a text fragment as:" />
-    <option name="text" hit="Copy ( C) a text fragment as:" />
+    <option name="as" hit="Copy ( C) as rich text" />
+    <option name="c" hit="Copy ( C) as rich text" />
+    <option name="copy" hit="Copy ( C) as rich text" />
+    <option name="rich" hit="Copy ( C) as rich text" />
+    <option name="text" hit="Copy ( C) as rich text" />
     <option name="darcula" hit="Darcula" />
     <option name="caret" hit="Delete trailing spaces on caret line" />
     <option name="delete" hit="Delete trailing spaces on caret line" />
@@ -6959,6 +7152,15 @@
     <option name="modifications" hit="Highlight lines with whitespace-only modifications with a different color" />
     <option name="whitespace-only" hit="Highlight lines with whitespace-only modifications with a different color" />
     <option name="with" hit="Highlight lines with whitespace-only modifications with a different color" />
+    <option name="error" hit="Highlight modified lines in error stripe on the scrollbar" />
+    <option name="highlight" hit="Highlight modified lines in error stripe on the scrollbar" />
+    <option name="in" hit="Highlight modified lines in error stripe on the scrollbar" />
+    <option name="lines" hit="Highlight modified lines in error stripe on the scrollbar" />
+    <option name="modified" hit="Highlight modified lines in error stripe on the scrollbar" />
+    <option name="on" hit="Highlight modified lines in error stripe on the scrollbar" />
+    <option name="scrollbar" hit="Highlight modified lines in error stripe on the scrollbar" />
+    <option name="stripe" hit="Highlight modified lines in error stripe on the scrollbar" />
+    <option name="the" hit="Highlight modified lines in error stripe on the scrollbar" />
     <option name="gutter" hit="Highlight modified lines in the gutter" />
     <option name="highlight" hit="Highlight modified lines in the gutter" />
     <option name="in" hit="Highlight modified lines in the gutter" />
@@ -6999,16 +7201,12 @@
     <option name="show" hit="Only show soft-wrap indicators for the current line" />
     <option name="soft-wrap" hit="Only show soft-wrap indicators for the current line" />
     <option name="the" hit="Only show soft-wrap indicators for the current line" />
-    <option name="plain" hit="Plain text" />
-    <option name="text" hit="Plain text" />
     <option name="files" hit="Recent files limit:" />
     <option name="limit" hit="Recent files limit:" />
     <option name="recent" hit="Recent files limit:" />
     <option name="limit" hit="Recent locations limit:" />
     <option name="locations" hit="Recent locations limit:" />
     <option name="recent" hit="Recent locations limit:" />
-    <option name="rich" hit="Rich text" />
-    <option name="text" hit="Rich text" />
     <option name="copy" hit="Rich-Text Copy" />
     <option name="rich-text" hit="Rich-Text Copy" />
     <option name="files" hit="Save Files" />
@@ -7234,6 +7432,8 @@
     <option name="console" hit="Console commands history size:" />
     <option name="history" hit="Console commands history size:" />
     <option name="size" hit="Console commands history size:" />
+    <option name="default" hit="Default Encoding:" />
+    <option name="encoding" hit="Default Encoding:" />
     <option name="exceptions" hit="Exceptions:" />
     <option name="console" hit="Fold console lines that contain:" />
     <option name="contain" hit="Fold console lines that contain:" />
@@ -7569,13 +7769,10 @@
     <option name="mark" hit="Error stripe mark min height:" />
     <option name="min" hit="Error stripe mark min height:" />
     <option name="stripe" hit="Error stripe mark min height:" />
-    <option name="formatting" hit="Formatting" />
     <option name="caret" hit="Highlight on Caret Movement" />
     <option name="highlight" hit="Highlight on Caret Movement" />
     <option name="movement" hit="Highlight on Caret Movement" />
     <option name="on" hit="Highlight on Caret Movement" />
-    <option name="imports" hit="Imports optimization" />
-    <option name="optimization" hit="Imports optimization" />
     <option name="editor" hit="In the editor" />
     <option name="in" hit="In the editor" />
     <option name="the" hit="In the editor" />
@@ -7585,23 +7782,22 @@
     <option name="the" hit="In the modal dialogs" />
     <option name="brace" hit="Matched brace" />
     <option name="matched" hit="Matched brace" />
-    <option name="name" hit="Preselect old name" />
-    <option name="old" hit="Preselect old name" />
-    <option name="preselect" hit="Preselect old name" />
+    <option name="current" hit="Preselect current symbol name for Rename refactoring" />
+    <option name="for" hit="Preselect current symbol name for Rename refactoring" />
+    <option name="name" hit="Preselect current symbol name for Rename refactoring" />
+    <option name="preselect" hit="Preselect current symbol name for Rename refactoring" />
+    <option name="refactoring" hit="Preselect current symbol name for Rename refactoring" />
+    <option name="rename" hit="Preselect current symbol name for Rename refactoring" />
+    <option name="symbol" hit="Preselect current symbol name for Rename refactoring" />
     <option name="documentation" hit="Quick Documentation" />
     <option name="quick" hit="Quick Documentation" />
     <option name="refactorings" hit="Refactorings" />
-    <option name="code" hit="Reformatting code" />
-    <option name="reformatting" hit="Reformatting code" />
     <option name="dialog" hit="Show inline dialog for local variables" />
     <option name="for" hit="Show inline dialog for local variables" />
     <option name="inline" hit="Show inline dialog for local variables" />
     <option name="local" hit="Show inline dialog for local variables" />
     <option name="show" hit="Show inline dialog for local variables" />
     <option name="variables" hit="Show inline dialog for local variables" />
-    <option name="after" hit="Show notification after:" />
-    <option name="notification" hit="Show notification after:" />
-    <option name="show" hit="Show notification after:" />
     <option name="documentation" hit="Show quick documentation on mouse move" />
     <option name="mouse" hit="Show quick documentation on mouse move" />
     <option name="move" hit="Show quick documentation on mouse move" />
@@ -7871,6 +8067,18 @@
     <option name="coverage" hit="Line Coverage//Uncovered" />
     <option name="line" hit="Line Coverage//Uncovered" />
     <option name="uncovered" hit="Line Coverage//Uncovered" />
+    <option name="active" hit="Live Templates//Active Segment" />
+    <option name="live" hit="Live Templates//Active Segment" />
+    <option name="segment" hit="Live Templates//Active Segment" />
+    <option name="templates" hit="Live Templates//Active Segment" />
+    <option name="inactive" hit="Live Templates//Inactive Segment" />
+    <option name="live" hit="Live Templates//Inactive Segment" />
+    <option name="segment" hit="Live Templates//Inactive Segment" />
+    <option name="templates" hit="Live Templates//Inactive Segment" />
+    <option name="live" hit="Live Templates//Template Variable" />
+    <option name="template" hit="Live Templates//Template Variable" />
+    <option name="templates" hit="Live Templates//Template Variable" />
+    <option name="variable" hit="Live Templates//Template Variable" />
     <option name="and" hit="Popups and Hints//Code lens" />
     <option name="code" hit="Popups and Hints//Code lens" />
     <option name="hints" hit="Popups and Hints//Code lens" />
@@ -7922,12 +8130,6 @@
     <option name="results" hit="Search Results//Text search result" />
     <option name="search" hit="Search Results//Text search result" />
     <option name="text" hit="Search Results//Text search result" />
-    <option name="live" hit="Templates//Live Template" />
-    <option name="template" hit="Templates//Live Template" />
-    <option name="templates" hit="Templates//Live Template" />
-    <option name="template" hit="Templates//Template variable" />
-    <option name="templates" hit="Templates//Template variable" />
-    <option name="variable" hit="Templates//Template variable" />
     <option name="background" hit="Text//Background in readonly files" />
     <option name="files" hit="Text//Background in readonly files" />
     <option name="in" hit="Text//Background in readonly files" />
@@ -8078,18 +8280,33 @@
     <option name="identifiers" hit="Identifiers//Reassigned parameter" />
     <option name="parameter" hit="Identifiers//Reassigned parameter" />
     <option name="reassigned" hit="Identifiers//Reassigned parameter" />
-    <option name="current" hit="Inline parameter hints//Current" />
-    <option name="hints" hit="Inline parameter hints//Current" />
-    <option name="inline" hit="Inline parameter hints//Current" />
-    <option name="parameter" hit="Inline parameter hints//Current" />
-    <option name="default" hit="Inline parameter hints//Default" />
-    <option name="hints" hit="Inline parameter hints//Default" />
-    <option name="inline" hit="Inline parameter hints//Default" />
-    <option name="parameter" hit="Inline parameter hints//Default" />
-    <option name="highlighted" hit="Inline parameter hints//Highlighted" />
-    <option name="hints" hit="Inline parameter hints//Highlighted" />
-    <option name="inline" hit="Inline parameter hints//Highlighted" />
-    <option name="parameter" hit="Inline parameter hints//Highlighted" />
+    <option name="current" hit="Inline hints//Parameters//Current" />
+    <option name="hints" hit="Inline hints//Parameters//Current" />
+    <option name="inline" hit="Inline hints//Parameters//Current" />
+    <option name="parameters" hit="Inline hints//Parameters//Current" />
+    <option name="default" hit="Inline hints//Parameters//Default" />
+    <option name="hints" hit="Inline hints//Parameters//Default" />
+    <option name="inline" hit="Inline hints//Parameters//Default" />
+    <option name="parameters" hit="Inline hints//Parameters//Default" />
+    <option name="highlighted" hit="Inline hints//Parameters//Highlighted" />
+    <option name="hints" hit="Inline hints//Parameters//Highlighted" />
+    <option name="inline" hit="Inline hints//Parameters//Highlighted" />
+    <option name="parameters" hit="Inline hints//Parameters//Highlighted" />
+    <option name="default" hit="Inline hints//Refactoring options//Default" />
+    <option name="hints" hit="Inline hints//Refactoring options//Default" />
+    <option name="inline" hit="Inline hints//Refactoring options//Default" />
+    <option name="options" hit="Inline hints//Refactoring options//Default" />
+    <option name="refactoring" hit="Inline hints//Refactoring options//Default" />
+    <option name="focused" hit="Inline hints//Refactoring options//Focused" />
+    <option name="hints" hit="Inline hints//Refactoring options//Focused" />
+    <option name="inline" hit="Inline hints//Refactoring options//Focused" />
+    <option name="options" hit="Inline hints//Refactoring options//Focused" />
+    <option name="refactoring" hit="Inline hints//Refactoring options//Focused" />
+    <option name="hints" hit="Inline hints//Refactoring options//Hovered" />
+    <option name="hovered" hit="Inline hints//Refactoring options//Hovered" />
+    <option name="inline" hit="Inline hints//Refactoring options//Hovered" />
+    <option name="options" hit="Inline hints//Refactoring options//Hovered" />
+    <option name="refactoring" hit="Inline hints//Refactoring options//Hovered" />
     <option name="keyword" hit="Keyword" />
     <option name="attribute" hit="Markup//Attribute" />
     <option name="markup" hit="Markup//Attribute" />
@@ -8109,6 +8326,9 @@
     <option name="sequence" hit="String//Escape Sequence//Valid" />
     <option name="string" hit="String//Escape Sequence//Valid" />
     <option name="valid" hit="String//Escape Sequence//Valid" />
+    <option name="highlighted" hit="String//Highlighted reference" />
+    <option name="reference" hit="String//Highlighted reference" />
+    <option name="string" hit="String//Highlighted reference" />
     <option name="string" hit="String//String text" />
     <option name="text" hit="String//String text" />
     <option name="language" hit="Template language" />
@@ -8142,13 +8362,13 @@
     <option name="only" hit="Show only monospaced fonts" />
     <option name="show" hit="Show only monospaced fonts" />
     <option name="size" hit="Size:" />
-    <option name="color" hit="Use color scheme font instead of the " />
-    <option name="font" hit="Use color scheme font instead of the " />
-    <option name="instead" hit="Use color scheme font instead of the " />
-    <option name="of" hit="Use color scheme font instead of the " />
-    <option name="scheme" hit="Use color scheme font instead of the " />
-    <option name="the" hit="Use color scheme font instead of the " />
-    <option name="use" hit="Use color scheme font instead of the " />
+    <option name="color" hit="Use color scheme font instead of the" />
+    <option name="font" hit="Use color scheme font instead of the" />
+    <option name="instead" hit="Use color scheme font instead of the" />
+    <option name="of" hit="Use color scheme font instead of the" />
+    <option name="scheme" hit="Use color scheme font instead of the" />
+    <option name="the" hit="Use color scheme font instead of the" />
+    <option name="use" hit="Use color scheme font instead of the" />
     <option name="default" hit="default" />
   </configurable>
   <configurable id="reference.settingsdialog.IDE.editor.colors.Console Font" configurable_name="Console Font">
@@ -8178,12 +8398,12 @@
     <option name="only" hit="Show only monospaced fonts" />
     <option name="show" hit="Show only monospaced fonts" />
     <option name="size" hit="Size:" />
-    <option name="console" hit="Use console font instead of the " />
-    <option name="font" hit="Use console font instead of the " />
-    <option name="instead" hit="Use console font instead of the " />
-    <option name="of" hit="Use console font instead of the " />
-    <option name="the" hit="Use console font instead of the " />
-    <option name="use" hit="Use console font instead of the " />
+    <option name="console" hit="Use console font instead of the" />
+    <option name="font" hit="Use console font instead of the" />
+    <option name="instead" hit="Use console font instead of the" />
+    <option name="of" hit="Use console font instead of the" />
+    <option name="the" hit="Use console font instead of the" />
+    <option name="use" hit="Use console font instead of the" />
     <option name="default" hit="default" />
   </configurable>
   <configurable id="reference.settingsdialog.IDE.editor.colors.Console Colors" configurable_name="Console Colors">
@@ -8357,34 +8577,36 @@
   </configurable>
   <configurable id="reference.settingsdialog.IDE.editor.colors.RegExp" configurable_name="RegExp">
     <option name="regexp" hit="RegExp" />
-    <option name="bad" hit="Bad character" />
-    <option name="character" hit="Bad character" />
+    <option name="bad" hit="Bad Character" />
+    <option name="character" hit="Bad Character" />
     <option name="brace" hit="Brace" />
     <option name="bracket" hit="Bracket" />
-    <option name="character" hit="Character class" />
-    <option name="class" hit="Character class" />
+    <option name="character" hit="Character Class" />
+    <option name="class" hit="Character Class" />
     <option name="comma" hit="Comma" />
     <option name="comment" hit="Comment" />
     <option name="dot" hit="Dot" />
-    <option name="character" hit="Escaped character" />
-    <option name="escaped" hit="Escaped character" />
-    <option name="inline" hit="Inline option" />
-    <option name="option" hit="Inline option" />
-    <option name="escape" hit="Invalid escape sequence" />
-    <option name="invalid" hit="Invalid escape sequence" />
-    <option name="sequence" hit="Invalid escape sequence" />
+    <option name="character" hit="Escaped Character" />
+    <option name="escaped" hit="Escaped Character" />
+    <option name="inline" hit="Inline Option" />
+    <option name="option" hit="Inline Option" />
+    <option name="escape" hit="Invalid Escape Sequence" />
+    <option name="invalid" hit="Invalid Escape Sequence" />
+    <option name="sequence" hit="Invalid Escape Sequence" />
+    <option name="groups" hit="Matched Groups" />
+    <option name="matched" hit="Matched Groups" />
     <option name="name" hit="Name" />
-    <option name="character" hit="Operator character" />
-    <option name="operator" hit="Operator character" />
+    <option name="character" hit="Operator Character" />
+    <option name="operator" hit="Operator Character" />
     <option name="parenthesis" hit="Parenthesis" />
-    <option name="character" hit="Plain character" />
-    <option name="plain" hit="Plain character" />
+    <option name="character" hit="Plain Character" />
+    <option name="plain" hit="Plain Character" />
     <option name="quantifier" hit="Quantifier" />
-    <option name="character" hit="Quote character" />
-    <option name="quote" hit="Quote character" />
-    <option name="escape" hit="Redundant escape sequence" />
-    <option name="redundant" hit="Redundant escape sequence" />
-    <option name="sequence" hit="Redundant escape sequence" />
+    <option name="escape" hit="Quote Escape" />
+    <option name="quote" hit="Quote Escape" />
+    <option name="escape" hit="Redundant Escape Sequence" />
+    <option name="redundant" hit="Redundant Escape Sequence" />
+    <option name="sequence" hit="Redundant Escape Sequence" />
   </configurable>
   <configurable id="reference.settingsdialog.IDE.editor.colors.By Scope" configurable_name="By Scope">
     <option name="by" hit="By Scope" />
@@ -8656,17 +8878,20 @@
     <option name="tab" hit="Tab" />
   </configurable>
   <configurable id="preferences.fileTypes" configurable_name="File Types">
+    <option name="file" hit="File Name Patterns:" />
+    <option name="name" hit="File Name Patterns:" />
+    <option name="patterns" hit="File Name Patterns:" />
     <option name="file" hit="File Types" />
     <option name="types" hit="File Types" />
-    <option name="and" hit="Ignore files and folders:" />
-    <option name="files" hit="Ignore files and folders:" />
-    <option name="folders" hit="Ignore files and folders:" />
-    <option name="ignore" hit="Ignore files and folders:" />
-    <option name="file" hit="Recognized file types:" />
-    <option name="recognized" hit="Recognized file types:" />
-    <option name="types" hit="Recognized file types:" />
-    <option name="patterns" hit="Registered patterns:" />
-    <option name="registered" hit="Registered patterns:" />
+    <option name="hashbang" hit="HashBang Patterns:" />
+    <option name="patterns" hit="HashBang Patterns:" />
+    <option name="and" hit="Ignore Files and Folders:" />
+    <option name="files" hit="Ignore Files and Folders:" />
+    <option name="folders" hit="Ignore Files and Folders:" />
+    <option name="ignore" hit="Ignore Files and Folders:" />
+    <option name="file" hit="Recognized File Types:" />
+    <option name="recognized" hit="Recognized File Types:" />
+    <option name="types" hit="Recognized File Types:" />
   </configurable>
   <configurable id="inlay.hints" configurable_name="Inlay Hints">
     <option name="configure" hit="Configure the inline hints settings for specific languages used in your project." />
@@ -8691,8 +8916,8 @@
     <option name="show" hit="Show hints for:" />
   </configurable>
   <configurable id="inlay.hints.Groovy" configurable_name="Groovy">
-    <option name="black" hit="Black list..." />
-    <option name="list" hit="Black list..." />
+    <option name="exclude" hit="Exclude list..." />
+    <option name="list" hit="Exclude list..." />
     <option name="groovy" hit="Groovy" />
     <option name="hints" hit="Show parameter hints" />
     <option name="parameter" hit="Show parameter hints" />
@@ -8702,8 +8927,6 @@
     <option name="" hit="'New' expressions" />
     <option name="expressions" hit="'New' expressions" />
     <option name="new" hit="'New' expressions" />
-    <option name="black" hit="Black list..." />
-    <option name="list" hit="Black list..." />
     <option name="builder-like" hit="Builder-like methods" />
     <option name="methods" hit="Builder-like methods" />
     <option name="access" hit="Complex expressions: binary, functional, array access and other" />
@@ -8716,6 +8939,8 @@
     <option name="other" hit="Complex expressions: binary, functional, array access and other" />
     <option name="constants" hit="Enum constants" />
     <option name="enum" hit="Enum constants" />
+    <option name="exclude" hit="Exclude list..." />
+    <option name="list" hit="Exclude list..." />
     <option name="java" hit="Java" />
     <option name="methods" hit="Methods with same-named numbered parameters" />
     <option name="numbered" hit="Methods with same-named numbered parameters" />
@@ -8748,8 +8973,8 @@
     <option name="show" hit="Show parameter hints for:" />
   </configurable>
   <configurable id="inlay.hints.kotlin" configurable_name="Kotlin">
-    <option name="black" hit="Black list..." />
-    <option name="list" hit="Black list..." />
+    <option name="exclude" hit="Exclude list..." />
+    <option name="list" hit="Exclude list..." />
     <option name="kotlin" hit="Kotlin" />
     <option name="argument" hit="Show argument name hints" />
     <option name="hints" hit="Show argument name hints" />
@@ -8840,7 +9065,40 @@
     <option name="restore" hit="Restore Default" />
   </configurable>
   <configurable id="configurable.group.build" configurable_name="Build, Execution, Deployment" />
-  <configurable id="configurable.group.build.tools" configurable_name="Build Tools" />
+  <configurable id="build.tools" configurable_name="Build Tools">
+    <option name="" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Changes outside the IDE or from version control.   " />
+    <option name="589df6" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Changes outside the IDE or from version control.   " />
+    <option name="800080" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Changes outside the IDE or from version control.   " />
+    <option name="a" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Changes outside the IDE or from version control.   " />
+    <option name="active" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Changes outside the IDE or from version control.   " />
+    <option name="changes" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Changes outside the IDE or from version control.   " />
+    <option name="color" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Changes outside the IDE or from version control.   " />
+    <option name="control" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Changes outside the IDE or from version control.   " />
+    <option name="f00000" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Changes outside the IDE or from version control.   " />
+    <option name="from" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Changes outside the IDE or from version control.   " />
+    <option name="hover" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Changes outside the IDE or from version control.   " />
+    <option name="ide" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Changes outside the IDE or from version control.   " />
+    <option name="link" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Changes outside the IDE or from version control.   " />
+    <option name="or" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Changes outside the IDE or from version control.   " />
+    <option name="outside" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Changes outside the IDE or from version control.   " />
+    <option name="the" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Changes outside the IDE or from version control.   " />
+    <option name="version" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Changes outside the IDE or from version control.   " />
+    <option name="visited" hit="    a, a:link {color:#589df6;} a:visited {color:#800080;} a:hover {color:#589df6;} a:active {color:#f00000;}      Changes outside the IDE or from version control.   " />
+    <option name="any" hit="Any changes" />
+    <option name="changes" hit="Any changes" />
+    <option name="build" hit="Build Tools" />
+    <option name="tools" hit="Build Tools" />
+    <option name="changes" hit="External changes" />
+    <option name="external" hit="External changes" />
+    <option name="after" hit="Reload project after changes in the build scripts:" />
+    <option name="build" hit="Reload project after changes in the build scripts:" />
+    <option name="changes" hit="Reload project after changes in the build scripts:" />
+    <option name="in" hit="Reload project after changes in the build scripts:" />
+    <option name="project" hit="Reload project after changes in the build scripts:" />
+    <option name="reload" hit="Reload project after changes in the build scripts:" />
+    <option name="scripts" hit="Reload project after changes in the build scripts:" />
+    <option name="the" hit="Reload project after changes in the build scripts:" />
+  </configurable>
   <configurable id="project.propDebugger" configurable_name="Debugger">
     <option name="debugger" hit="Debugger" />
   </configurable>
@@ -8956,34 +9214,58 @@
   </configurable>
   <configurable id="configurable.group.build.android" configurable_name="Android" />
   <configurable id="preferences.externalDependencies" configurable_name="Required Plugins">
-    <option name="" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update.  " />
-    <option name="a" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update.  " />
-    <option name="an" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update.  " />
-    <option name="for" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update.  " />
-    <option name="idea" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update.  " />
-    <option name="if" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update.  " />
-    <option name="intellij" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update.  " />
-    <option name="is" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update.  " />
-    <option name="list" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update.  " />
-    <option name="missing" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update.  " />
-    <option name="needs" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update.  " />
-    <option name="notify" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update.  " />
-    <option name="of" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update.  " />
-    <option name="or" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update.  " />
-    <option name="plugin" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update.  " />
-    <option name="plugins" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update.  " />
-    <option name="project" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update.  " />
-    <option name="required" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update.  " />
-    <option name="specify" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update.  " />
-    <option name="update" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update.  " />
-    <option name="will" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update.  " />
-    <option name="you" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update.  " />
-    <option name="your" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update.  " />
+    <option name="" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update. " />
+    <option name="a" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update. " />
+    <option name="an" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update. " />
+    <option name="for" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update. " />
+    <option name="idea" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update. " />
+    <option name="if" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update. " />
+    <option name="intellij" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update. " />
+    <option name="is" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update. " />
+    <option name="list" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update. " />
+    <option name="missing" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update. " />
+    <option name="needs" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update. " />
+    <option name="notify" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update. " />
+    <option name="of" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update. " />
+    <option name="or" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update. " />
+    <option name="plugin" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update. " />
+    <option name="plugins" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update. " />
+    <option name="project" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update. " />
+    <option name="required" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update. " />
+    <option name="specify" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update. " />
+    <option name="update" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update. " />
+    <option name="will" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update. " />
+    <option name="you" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update. " />
+    <option name="your" hit=" Specify a list of plugins required for your project. IntelliJ IDEA will notify you if a required plugin is missing or needs an update. " />
     <option name="plugins" hit="Required Plugins" />
     <option name="required" hit="Required Plugins" />
   </configurable>
   <configurable id="configurable.group.language" configurable_name="Languages &amp; Frameworks" />
   <configurable id="configurable.group.tools" configurable_name="Tools" />
+  <configurable id="reference.settings.ide.settings.web.browsers" configurable_name="Web Browsers">
+    <option name="custom" hit="Custom path" />
+    <option name="path" hit="Custom path" />
+    <option name="browser" hit="Default Browser:" />
+    <option name="default" hit="Default Browser:" />
+    <option name="first" hit="First listed" />
+    <option name="listed" hit="First listed" />
+    <option name="files" hit="For HTML files" />
+    <option name="for" hit="For HTML files" />
+    <option name="html" hit="For HTML files" />
+    <option name="files" hit="For XML files" />
+    <option name="for" hit="For XML files" />
+    <option name="xml" hit="For XML files" />
+    <option name="browser" hit="Show browser popup in the editor" />
+    <option name="editor" hit="Show browser popup in the editor" />
+    <option name="in" hit="Show browser popup in the editor" />
+    <option name="popup" hit="Show browser popup in the editor" />
+    <option name="show" hit="Show browser popup in the editor" />
+    <option name="the" hit="Show browser popup in the editor" />
+    <option name="default" hit="System default" />
+    <option name="system" hit="System default" />
+    <option name="browsers" hit="Web Browsers" />
+    <option name="web" hit="Web Browsers" />
+  </configurable>
   <configurable id="preferences.externalTools" configurable_name="External Tools">
     <option name="external" hit="External Tools" />
     <option name="tools" hit="External Tools" />

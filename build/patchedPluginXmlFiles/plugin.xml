@@ -1,10 +1,8 @@
 <idea-plugin>
-  <version>1.1.1</version>
+  <version>1.2.3</version>
   <change-notes>
-      There are fllowing features:&lt;br&gt;
-      &lt;li&gt;Command mode and Insert mode&lt;/li&gt;
-      &lt;li&gt;Some intellij local action keybindings with prefix SPACE key.&lt;/li&gt;</change-notes>
-  <idea-version since-build="201.8743" until-build="201.*"/>
+      &lt;li&gt;fix cyclic initialize KeymapmanagerEx&lt;/li&gt;</change-notes>
+  <idea-version since-build="202.6397" until-build="202.*"/>
   <id>tp-keys</id>
   <name>tp-keys</name>
   <vendor email="tpim0901@gmail.com" url="http://github.com/tpim/tp-keys">tp-keys</vendor>
